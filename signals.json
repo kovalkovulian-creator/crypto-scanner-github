@@ -159,8 +159,14 @@
       "price": 0.000423,
       "ts": 1790345253.786211,
       "msg_id": 23,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -97.2,
+        "outcome": "СКАМ ✖",
+        "ts": 1790348985.511781
+      }
     },
     "DYM6DRb9W7dQa58Jn717dDSVKP5KwDSevdptfwwcpump": {
       "symbol": "BackInu",
