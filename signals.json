@@ -393,6 +393,14 @@
       "msg_id": 82,
       "done": [],
       "last": null
+    },
+    "4ec7Lf7JuCYQVQnUJCzpW5YvaPMNEAeqDRwGcU5n9GGJ": {
+      "symbol": "SATOSHI",
+      "price": 0.0001136,
+      "ts": 1790367950.6413324,
+      "msg_id": 100,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-25"
