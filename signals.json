@@ -131,8 +131,14 @@
       "price": 0.0003579,
       "ts": 1790342801.0598083,
       "msg_id": 19,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 107.6,
+        "outcome": "плюс ✓",
+        "ts": 1790346504.815174
+      }
     },
     "2VeuwcJYtu9P1g27a1UahFsJmVZRBWfBvLJcuzvApump": {
       "symbol": "GOCAT",
