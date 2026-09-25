@@ -271,22 +271,42 @@
       "price": 0.0001926,
       "ts": 1790349298.2884195,
       "msg_id": 37,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -98.8,
+        "outcome": "СКАМ ✖",
+        "ts": 1790353041.8281841
+      }
     },
     "n5Vu8DPpmJLthvkRH33N5uLHz9ZxkdErE8MfTFBpump": {
       "symbol": "BACKPACA",
       "price": 0.0003077,
       "ts": 1790349301.2919948,
       "msg_id": 38,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 47.7,
+        "outcome": "плюс ✓",
+        "ts": 1790353041.8281841
+      }
     },
     "ZEtX7MPVZSKjBq6pD72tjb89KGJxSZNWjRqZEdASrXE": {
       "symbol": "ORCAT",
       "price": 0.0002039,
       "ts": 1790352711.8857079,
       "msg_id": 46,
+      "done": [],
+      "last": null
+    },
+    "8SerkEicthsnmh5hVubrH5GxSCwJD2FYK5MgnA96pump": {
+      "symbol": "PUMPGO",
+      "price": 0.0001754,
+      "ts": 1790353027.4680645,
+      "msg_id": 47,
       "done": [],
       "last": null
     }
