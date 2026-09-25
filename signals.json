@@ -201,16 +201,28 @@
       "price": 0.0001353,
       "ts": 1790347423.9559174,
       "msg_id": 30,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -14.3,
+        "outcome": "минус",
+        "ts": 1790351165.734219
+      }
     },
     "8Vte25yt28L8BfLXm8DrzjSYEyaKX8yry6hRKRmX7FGd": {
       "symbol": "UPTOBER",
       "price": 0.0003106,
       "ts": 1790347427.1447673,
       "msg_id": 31,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -0.4,
+        "outcome": "без изменений",
+        "ts": 1790351165.734219
+      }
     },
     "8d6FRAKPvbr8inGe1C4NaEqd2GiBZXN2RE5ak7Qapump": {
       "symbol": "Mooncake",
