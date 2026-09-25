@@ -103,8 +103,14 @@
       "price": 0.0002309,
       "ts": 1790341884.4963295,
       "msg_id": 16,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -99.0,
+        "outcome": "СКАМ ✖",
+        "ts": 1790345579.7359526
+      }
     },
     "3C4izUmGYWv8fqDxz35T3oVHbAxwdsfsv92cbXCJpump": {
       "symbol": "WAO",
@@ -135,6 +141,14 @@
       "price": 0.000423,
       "ts": 1790345253.786211,
       "msg_id": 23,
+      "done": [],
+      "last": null
+    },
+    "DYM6DRb9W7dQa58Jn717dDSVKP5KwDSevdptfwwcpump": {
+      "symbol": "BackInu",
+      "price": 0.0001468,
+      "ts": 1790345577.7344205,
+      "msg_id": 25,
       "done": [],
       "last": null
     }
