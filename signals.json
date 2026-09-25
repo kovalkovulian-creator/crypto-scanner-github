@@ -81,6 +81,14 @@
       "msg_id": 16,
       "done": [],
       "last": null
+    },
+    "3C4izUmGYWv8fqDxz35T3oVHbAxwdsfsv92cbXCJpump": {
+      "symbol": "WAO",
+      "price": 0.0001781,
+      "ts": 1790342192.181063,
+      "msg_id": 17,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": ""
