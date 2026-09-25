@@ -33,8 +33,14 @@
       "price": 0.0001713,
       "ts": 1790335744.7837653,
       "msg_id": 8,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 22.9,
+        "outcome": "плюс ✓",
+        "ts": 1790339420.0886924
+      }
     },
     "F9PvspnWkP3hSLaYxQb2LvFRBgyrLVhdUJ5q39tZZPbC": {
       "symbol": "BRICK",
