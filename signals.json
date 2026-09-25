@@ -47,8 +47,14 @@
       "price": 0.0003711,
       "ts": 1790338801.722195,
       "msg_id": 10,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -11.8,
+        "outcome": "минус",
+        "ts": 1790342496.4744518
+      }
     },
     "ATqKVVa4h5WqjAMqJdG3mjtWXsW5SshyyUY7dXdvSvRs": {
       "symbol": "BackCat",
