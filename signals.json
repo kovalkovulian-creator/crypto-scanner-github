@@ -117,8 +117,14 @@
       "price": 0.0001781,
       "ts": 1790342192.181063,
       "msg_id": 17,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -98.7,
+        "outcome": "СКАМ ✖",
+        "ts": 1790345883.5687687
+      }
     },
     "6BZY2BgeqVKEYCTgU9Q9oUwx6bDqv32djy6WGaXTci1i": {
       "symbol": "WODL",
