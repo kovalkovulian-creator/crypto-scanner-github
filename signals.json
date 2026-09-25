@@ -229,16 +229,28 @@
       "price": 0.0001649,
       "ts": 1790348353.6373954,
       "msg_id": 33,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -93.9,
+        "outcome": "СКАМ ✖",
+        "ts": 1790352096.935714
+      }
     },
     "4G5YDqDvwgwSS3nLPDGDpGuetbG7rZYzNSBb1U4Tqbzi": {
       "symbol": "ARENA",
       "price": 0.0004353,
       "ts": 1790348356.6083941,
       "msg_id": 34,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 1.6,
+        "outcome": "плюс ✓",
+        "ts": 1790352096.935714
+      }
     },
     "EfBRerdWRTVaXQHFejysTFjqU4EX2qDZuV9dj61tpump": {
       "symbol": "LFG",
