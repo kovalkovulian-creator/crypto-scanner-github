@@ -317,6 +317,14 @@
       "msg_id": 50,
       "done": [],
       "last": null
+    },
+    "CbouD8khLcz1Y1QngvRtQufUimSRKpHkvGn6y1n8pump": {
+      "symbol": "UTILITY",
+      "price": 0.000168,
+      "ts": 1790354287.3822467,
+      "msg_id": 51,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": ""
