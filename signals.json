@@ -61,8 +61,14 @@
       "price": 0.0003421,
       "ts": 1790340646.1328747,
       "msg_id": 13,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -2.2,
+        "outcome": "минус",
+        "ts": 1790344332.7914274
+      }
     },
     "BxftAowY2dVa2h9KMqDTPk4oMxzU9k6uVbZuoorXpump": {
       "symbol": "Holdoween",
