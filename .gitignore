@@ -1,0 +1,4 @@
+config.json
+review.csv
+__pycache__/
+*.tmp
