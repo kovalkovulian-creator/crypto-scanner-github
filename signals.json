@@ -89,8 +89,14 @@
       "price": 0.0001975,
       "ts": 1790341576.6254687,
       "msg_id": 15,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -98.7,
+        "outcome": "СКАМ ✖",
+        "ts": 1790345265.2044706
+      }
     },
     "BjTykKGejK3y5ixdCkZYLE8yKmwPmYLvB3PkpRL3pump": {
       "symbol": "BROKE",
@@ -121,6 +127,14 @@
       "price": 0.000151,
       "ts": 1790343716.6521013,
       "msg_id": 20,
+      "done": [],
+      "last": null
+    },
+    "DjUwjdo4eujo8wq9hjdiz8o54hxgGaQ6U61JHixqpump": {
+      "symbol": "MEOWLIN",
+      "price": 0.000423,
+      "ts": 1790345253.786211,
+      "msg_id": 23,
       "done": [],
       "last": null
     }
