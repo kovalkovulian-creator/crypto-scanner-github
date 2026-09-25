@@ -173,8 +173,14 @@
       "price": 0.0001468,
       "ts": 1790345577.7344205,
       "msg_id": 25,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -98.3,
+        "outcome": "СКАМ ✖",
+        "ts": 1790349305.7877476
+      }
     },
     "2JyZvV9dRBkSBdeh8moXTkgmiksdGAzeAsU9s79Vpump": {
       "symbol": "APE",
@@ -221,6 +227,22 @@
       "price": 0.0001978,
       "ts": 1790348664.0148942,
       "msg_id": 35,
+      "done": [],
+      "last": null
+    },
+    "3f9gHGMaVy2EXFwv4sDixWZHFohUswLpFFwFS3PQpump": {
+      "symbol": "AMD",
+      "price": 0.0001926,
+      "ts": 1790349298.2884195,
+      "msg_id": 37,
+      "done": [],
+      "last": null
+    },
+    "n5Vu8DPpmJLthvkRH33N5uLHz9ZxkdErE8MfTFBpump": {
+      "symbol": "BACKPACA",
+      "price": 0.0003077,
+      "ts": 1790349301.2919948,
+      "msg_id": 38,
       "done": [],
       "last": null
     }
