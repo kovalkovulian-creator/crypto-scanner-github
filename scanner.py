@@ -40,6 +40,7 @@ CONFIG_PATH = os.path.join(HERE, "config.json")
 SEEN_PATH = os.path.join(HERE, "seen.json")
 JOURNAL_PATH = os.path.join(HERE, "journal.csv")
 SIGNALS_PATH = os.path.join(HERE, "signals.json")
+BOT_STATE_PATH = os.path.join(HERE, "bot_state.json")
 
 # ================= НАСТРОЙКИ =================
 CHECK_EVERY_SEC = 120          # как часто проверять новые монеты
@@ -47,6 +48,7 @@ ALLOWED_VERDICTS = {"ЗЕЛЁНЫЙ", "ЖЁЛТЫЙ"}   # какие верди�
 MAX_WARNINGS = 2               # жёлтые с большим числом предупреждений не присылаем
 MIN_LIQUIDITY_USD = 30_000     # минимальная ликвидность для сигнала
 MAX_TOP10_PCT = 40             # максимальная доля топ-10 кошельков
+MIN_PAIR_AGE_HOURS = 6         # моложе не сигналим: по журналу 10 из 13 монет младше часа обнулились
 PAUSE_BETWEEN_TOKENS = 2       # пауза между проверками монет (чтобы не упереться в лимиты API)
 FOLLOWUP_HOURS = [1, 24, 168]  # через сколько часов после сигнала присылать отчёт (1 ч, сутки, неделя)
 DAILY_SUMMARY_HOUR = 21        # во сколько присылать дневную сводку (по времени Mac)
@@ -88,11 +90,11 @@ def journal_write(res):
 
 
 # ---------- Telegram ----------
-def tg(token, method, params=None):
+def tg(token, method, params=None, timeout=15):
     url = f"https://api.telegram.org/bot{token}/{method}"
     data = urllib.parse.urlencode(params or {}).encode() if params else None
     req = urllib.request.Request(url, data=data)
-    with urllib.request.urlopen(req, timeout=15) as r:
+    with urllib.request.urlopen(req, timeout=timeout) as r:
         resp = json.loads(r.read().decode())
     if not resp.get("ok"):
         raise RuntimeError(f"Telegram: {resp}")
@@ -159,7 +161,7 @@ def send(cfg, text, reply_to=None):
 
 def format_signal(res):
     i = res["info"]
-    icon = {"ЗЕЛЁНЫЙ": "🟢", "ЖЁЛТЫЙ": "🟡"}.get(res["verdict"], "⚪")
+    icon = {"ЗЕЛЁНЫЙ": "🟢", "ЖЁЛТЫЙ": "🟡", "КРАСНЫЙ": "🔴"}.get(res["verdict"], "⚪")
     def money(v):
         return f"${v:,.0f}" if isinstance(v, (int, float)) else "?"
     lines = [
@@ -202,6 +204,8 @@ def passes_filter(res):
     if (i.get("liquidity_usd") or 0) < MIN_LIQUIDITY_USD:
         return False
     if (i.get("top10_pct") or 0) > MAX_TOP10_PCT:
+        return False
+    if i.get("pair_age_hours") is None or i["pair_age_hours"] < MIN_PAIR_AGE_HOURS:
         return False
     return True
 
@@ -340,6 +344,98 @@ def maybe_daily_summary(cfg):
         log(f"   сводка не отправлена: {e}")
 
 
+# ---------- команды в боте ----------
+HELP_TEXT = (
+    "🤖 <b>Команды</b>\n"
+    "/stat — что сейчас с монетами, по которым были сигналы\n"
+    "/check <i>адрес</i> — проверить любую монету Solana на скам\n"
+    "(можно просто прислать адрес монеты)\n"
+    "/help — эта подсказка\n\n"
+    "<i>Бот отвечает, пока работает сканер (на GitHub — почти всегда).</i>"
+)
+
+
+def looks_like_mint(t):
+    return 32 <= len(t) <= 44 and t.isalnum()
+
+
+def cmd_stat(cfg):
+    sig = load_signals()["signals"]
+    if not sig:
+        return "Сигналов пока не было."
+    rows = []
+    for mint, s in sorted(sig.items(), key=lambda kv: kv[1]["ts"], reverse=True):
+        p1, liq, change, outcome = evaluate(mint, s.get("price"))
+        age_h = (time.time() - s["ts"]) / 3600
+        age = f"{age_h:.0f} ч" if age_h < 48 else f"{age_h / 24:.1f} дн"
+        icon = {"плюс ✓": "📈", "минус": "📉", "без изменений": "➖", "СКАМ ✖": "💀"}.get(outcome, "❔")
+        ch = f"{change:+.0f}%" if change is not None else "?"
+        liq_txt = f"${liq:,.0f}" if liq is not None else "?"
+        rows.append((change, f"{icon} <b>{s.get('symbol') or mint[:6]}</b>  {ch}  · {age} назад · ликв. {liq_txt}"))
+        time.sleep(0.3)
+    ch_all = [c for c, _ in rows if c is not None]
+    head = f"📊 <b>Сигналы сейчас</b> ({len(rows)})"
+    if ch_all:
+        plus = sum(1 for c in ch_all if c >= 1)
+        head += f"\nВ плюсе: {plus} из {len(ch_all)} · среднее: {sum(ch_all) / len(ch_all):+.1f}%"
+    body = "\n".join(r for _, r in rows[:40])
+    return head + "\n\n" + body + "\n\n<i>Изменение от цены в момент сигнала, без комиссий.</i>"
+
+
+def cmd_check(cfg, mint):
+    res = check_token(mint)
+    if res is None:
+        return "Не удалось получить данные по этому адресу."
+    text = format_signal(res)
+    if res["danger"]:
+        text += "\n\n🔴 <b>Критично:</b>\n• " + "\n• ".join(res["danger"])
+    return text
+
+
+def handle_message(cfg, text):
+    t = (text or "").strip()
+    cmd, _, arg = t.partition(" ")
+    cmd = cmd.split("@")[0].lower()
+    if cmd in ("/stat", "/stats", "/статус"):
+        return cmd_stat(cfg)
+    if cmd == "/check":
+        return cmd_check(cfg, arg.strip()) if looks_like_mint(arg.strip()) else "Пришлите так: /check адрес_монеты"
+    if looks_like_mint(t):
+        return cmd_check(cfg, t)
+    return HELP_TEXT
+
+
+def serve(cfg, seconds):
+    """Слушает команды в Telegram заданное число секунд (используется вместо паузы между проходами)."""
+    state = load_json(BOT_STATE_PATH, {"offset": 0})
+    end = time.time() + seconds
+    my_chat = int(cfg["telegram_chat_id"])
+    while time.time() < end:
+        wait = int(max(1, min(25, end - time.time())))
+        try:
+            updates = tg(cfg["telegram_bot_token"], "getUpdates",
+                         {"offset": state["offset"], "timeout": wait, "allowed_updates": '["message"]'},
+                         timeout=wait + 10)
+        except Exception as e:
+            log(f"   getUpdates: {e}")
+            time.sleep(5)
+            continue
+        for u in updates:
+            state["offset"] = u["update_id"] + 1
+            msg = u.get("message") or {}
+            if (msg.get("chat") or {}).get("id") != my_chat:
+                continue  # отвечаем только владельцу
+            try:
+                if (msg.get("text") or "").strip().split(" ")[0].lower() in ("/stat", "/stats", "/статус"):
+                    send(cfg, "⏳ Собираю данные…")
+                reply = handle_message(cfg, msg.get("text"))
+                send(cfg, reply, reply_to=msg.get("message_id"))
+                log(f"   команда: {(msg.get('text') or '')[:40]}")
+            except Exception as e:
+                log(f"   ошибка команды: {e}")
+        save_json(BOT_STATE_PATH, state)
+
+
 def main():
     cfg = get_config()
     ensure_chat_id(cfg)
@@ -357,6 +453,11 @@ def main():
                 step()
             except Exception as e:
                 log(f"   ошибка: {type(e).__name__}: {e}")
+        return
+    if "--serve" in sys.argv:      # слушать команды бота N секунд
+        i = sys.argv.index("--serve")
+        secs = int(sys.argv[i + 1]) if len(sys.argv) > i + 1 and sys.argv[i + 1].isdigit() else 300
+        serve(cfg, secs)
         return
     if "--followup" in sys.argv:   # только отчёты по прошлым сигналам
         check_followups(cfg)
@@ -377,7 +478,7 @@ def main():
                     step()
                 except Exception as e:  # сканер не должен падать из-за одной ошибки
                     log(f"   ошибка: {type(e).__name__}: {e}")
-            time.sleep(CHECK_EVERY_SEC)
+            serve(cfg, CHECK_EVERY_SEC)  # пауза между проходами = ответы на команды в боте
     except KeyboardInterrupt:
         log("\nОстановлен.")
         try:
