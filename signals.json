@@ -193,6 +193,22 @@
       "msg_id": 31,
       "done": [],
       "last": null
+    },
+    "8d6FRAKPvbr8inGe1C4NaEqd2GiBZXN2RE5ak7Qapump": {
+      "symbol": "Mooncake",
+      "price": 0.0001649,
+      "ts": 1790348353.6373954,
+      "msg_id": 33,
+      "done": [],
+      "last": null
+    },
+    "4G5YDqDvwgwSS3nLPDGDpGuetbG7rZYzNSBb1U4Tqbzi": {
+      "symbol": "ARENA",
+      "price": 0.0004353,
+      "ts": 1790348356.6083941,
+      "msg_id": 34,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": ""
