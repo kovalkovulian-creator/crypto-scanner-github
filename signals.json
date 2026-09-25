@@ -419,6 +419,14 @@
         "outcome": "плюс ✓",
         "ts": 1790371673.1678324
       }
+    },
+    "8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z": {
+      "symbol": "EMBERCAT",
+      "price": 7.668e-05,
+      "ts": 1790373195.6975386,
+      "msg_id": 107,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-25"
