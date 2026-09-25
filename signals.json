@@ -75,8 +75,14 @@
       "price": 0.00162,
       "ts": 1790340959.5281205,
       "msg_id": 14,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -4.0,
+        "outcome": "минус",
+        "ts": 1790344644.1079702
+      }
     },
     "5hnUsEmCXNycRztDGkbDdeveyCaWJoG3rYUW3wtzpump": {
       "symbol": "JEANCAT",
