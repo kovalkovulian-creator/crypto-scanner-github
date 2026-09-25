@@ -187,8 +187,14 @@
       "price": 0.0002631,
       "ts": 1790347116.5164907,
       "msg_id": 29,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -99.1,
+        "outcome": "СКАМ ✖",
+        "ts": 1790350849.3483484
+      }
     },
     "DHMa4M7rdTp2Q5PbqTGDwZjdCQX7BUqArKUDBrJNpump": {
       "symbol": "BONGO",
