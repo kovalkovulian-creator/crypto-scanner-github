@@ -145,8 +145,14 @@
       "price": 0.000151,
       "ts": 1790343716.6521013,
       "msg_id": 20,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -98.4,
+        "outcome": "СКАМ ✖",
+        "ts": 1790347429.146625
+      }
     },
     "DjUwjdo4eujo8wq9hjdiz8o54hxgGaQ6U61JHixqpump": {
       "symbol": "MEOWLIN",
@@ -169,6 +175,22 @@
       "price": 0.0002631,
       "ts": 1790347116.5164907,
       "msg_id": 29,
+      "done": [],
+      "last": null
+    },
+    "DHMa4M7rdTp2Q5PbqTGDwZjdCQX7BUqArKUDBrJNpump": {
+      "symbol": "BONGO",
+      "price": 0.0001353,
+      "ts": 1790347423.9559174,
+      "msg_id": 30,
+      "done": [],
+      "last": null
+    },
+    "8Vte25yt28L8BfLXm8DrzjSYEyaKX8yry6hRKRmX7FGd": {
+      "symbol": "UPTOBER",
+      "price": 0.0003106,
+      "ts": 1790347427.1447673,
+      "msg_id": 31,
       "done": [],
       "last": null
     }
