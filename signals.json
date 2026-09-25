@@ -257,8 +257,14 @@
       "price": 0.0001978,
       "ts": 1790348664.0148942,
       "msg_id": 35,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -98.8,
+        "outcome": "СКАМ ✖",
+        "ts": 1790352407.2842314
+      }
     },
     "3f9gHGMaVy2EXFwv4sDixWZHFohUswLpFFwFS3PQpump": {
       "symbol": "AMD",
