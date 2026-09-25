@@ -383,16 +383,28 @@
       "price": 0.0001049,
       "ts": 1790366984.1573799,
       "msg_id": 81,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 2.0,
+        "outcome": "плюс ✓",
+        "ts": 1790370739.38024
+      }
     },
     "D1YZZg9dBZ7AbfknZVbaeVLto36eySwoFYEVhZrD4F4n": {
       "symbol": "GO",
       "price": 0.008672,
       "ts": 1790366994.038739,
       "msg_id": 82,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -10.6,
+        "outcome": "минус",
+        "ts": 1790370739.38024
+      }
     },
     "4ec7Lf7JuCYQVQnUJCzpW5YvaPMNEAeqDRwGcU5n9GGJ": {
       "symbol": "SATOSHI",
