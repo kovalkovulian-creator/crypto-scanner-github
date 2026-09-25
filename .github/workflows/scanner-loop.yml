@@ -1,6 +1,6 @@
 name: crypto-scanner-loop
 
-# Один запуск работает ~5.5 часа и делает проход каждые 5 минут.
+# Один запуск работает ~5.5 часа: проход сканера, затем 5 минут бот отвечает на команды, и снова.
 # Раз в час GitHub ставит следующий запуск в очередь — он стартует, когда закончится текущий.
 on:
   schedule:
@@ -29,16 +29,16 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Сканер (проход каждые 5 минут, ~5.5 часа)
+      - name: Сканер + команды бота (~5.5 часа)
         run: |
           git config user.name "crypto-scanner-bot"
           git config user.email "crypto-scanner-bot@users.noreply.github.com"
           END=$(( $(date +%s) + 330*60 ))
           while [ $(date +%s) -lt $END ]; do
             python scanner.py --cycle || true
-            for f in seen.json signals.json journal.csv; do [ -f "$f" ] && git add -f "$f"; done
+            for f in seen.json signals.json journal.csv bot_state.json; do [ -f "$f" ] && git add -f "$f"; done
             git diff --cached --quiet || git commit -q -m "scanner: обновление журнала"
             git pull -q --rebase --autostash || true
             git push -q || true
-            sleep 300
+            python scanner.py --serve 300 || sleep 300
           done
