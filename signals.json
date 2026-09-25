@@ -1,0 +1,21 @@
+{
+  "signals": {
+    "5g9PWcRUHpmqm5uKycpShKXJB18sGLeCEzgB3qrRpump": {
+      "symbol": "SWARM",
+      "price": 0.0002315,
+      "ts": 1790330340.0,
+      "msg_id": null,
+      "done": [],
+      "last": null
+    },
+    "AQVcP67EpMyu4cBZZjqMu91cVsWy1aX98JmcZm1FyY9": {
+      "symbol": "AQUA",
+      "price": 0.001793,
+      "ts": 1790330400.0,
+      "msg_id": null,
+      "done": [],
+      "last": null
+    }
+  },
+  "last_summary": ""
+}
