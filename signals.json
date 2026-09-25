@@ -27,6 +27,14 @@
         "outcome": "минус",
         "ts": 1790334819.8879683
       }
+    },
+    "J141JCiXKGcrhDCgWUTCL9qz7h943iCibNiLNfqZpump": {
+      "symbol": "0xquit",
+      "price": 0.0001713,
+      "ts": 1790335744.7837653,
+      "msg_id": 8,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": ""
