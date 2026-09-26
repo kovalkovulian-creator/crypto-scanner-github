@@ -478,6 +478,14 @@
         "outcome": "минус",
         "ts": 1790410812.016827
       }
+    },
+    "aqQRs3UJmHs7ktoLo46HZAzvG9P3oCoZ41nENqFbory": {
+      "symbol": "PIE",
+      "price": 0.7369,
+      "ts": 1790424596.637311,
+      "msg_id": 126,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-25"
