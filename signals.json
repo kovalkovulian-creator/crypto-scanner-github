@@ -66,12 +66,13 @@
       "ts": 1790340646.1328747,
       "msg_id": 13,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -2.2,
-        "outcome": "минус",
-        "ts": 1790344332.7914274
+        "change": -93.5,
+        "outcome": "СКАМ ✖",
+        "ts": 1790446967.3833613
       }
     },
     "BxftAowY2dVa2h9KMqDTPk4oMxzU9k6uVbZuoorXpump": {
@@ -80,12 +81,13 @@
       "ts": 1790340959.5281205,
       "msg_id": 14,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -4.0,
+        "change": -27.1,
         "outcome": "минус",
-        "ts": 1790344644.1079702
+        "ts": 1790446967.3833613
       }
     },
     "5hnUsEmCXNycRztDGkbDdeveyCaWJoG3rYUW3wtzpump": {
@@ -94,12 +96,13 @@
       "ts": 1790341576.6254687,
       "msg_id": 15,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -98.7,
+        "change": -98.8,
         "outcome": "СКАМ ✖",
-        "ts": 1790345265.2044706
+        "ts": 1790446967.3833613
       }
     },
     "BjTykKGejK3y5ixdCkZYLE8yKmwPmYLvB3PkpRL3pump": {
@@ -108,12 +111,13 @@
       "ts": 1790341884.4963295,
       "msg_id": 16,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
         "change": -99.0,
         "outcome": "СКАМ ✖",
-        "ts": 1790345579.7359526
+        "ts": 1790446967.3833613
       }
     },
     "3C4izUmGYWv8fqDxz35T3oVHbAxwdsfsv92cbXCJpump": {
@@ -122,12 +126,13 @@
       "ts": 1790342192.181063,
       "msg_id": 17,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
         "change": -98.7,
         "outcome": "СКАМ ✖",
-        "ts": 1790345883.5687687
+        "ts": 1790446967.3833613
       }
     },
     "6BZY2BgeqVKEYCTgU9Q9oUwx6bDqv32djy6WGaXTci1i": {
@@ -136,12 +141,13 @@
       "ts": 1790342801.0598083,
       "msg_id": 19,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 107.6,
+        "change": 29.3,
         "outcome": "плюс ✓",
-        "ts": 1790346504.815174
+        "ts": 1790446967.3833613
       }
     },
     "2VeuwcJYtu9P1g27a1UahFsJmVZRBWfBvLJcuzvApump": {
@@ -150,12 +156,13 @@
       "ts": 1790343716.6521013,
       "msg_id": 20,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
         "change": -98.4,
         "outcome": "СКАМ ✖",
-        "ts": 1790347429.146625
+        "ts": 1790446967.3833613
       }
     },
     "DjUwjdo4eujo8wq9hjdiz8o54hxgGaQ6U61JHixqpump": {
@@ -164,12 +171,13 @@
       "ts": 1790345253.786211,
       "msg_id": 23,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -97.2,
+        "change": -99.1,
         "outcome": "СКАМ ✖",
-        "ts": 1790348985.511781
+        "ts": 1790446967.3833613
       }
     },
     "DYM6DRb9W7dQa58Jn717dDSVKP5KwDSevdptfwwcpump": {
@@ -178,12 +186,13 @@
       "ts": 1790345577.7344205,
       "msg_id": 25,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -98.3,
+        "change": -98.4,
         "outcome": "СКАМ ✖",
-        "ts": 1790349305.7877476
+        "ts": 1790446967.3833613
       }
     },
     "2JyZvV9dRBkSBdeh8moXTkgmiksdGAzeAsU9s79Vpump": {
@@ -192,12 +201,13 @@
       "ts": 1790347116.5164907,
       "msg_id": 29,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -99.1,
+        "change": -99.0,
         "outcome": "СКАМ ✖",
-        "ts": 1790350849.3483484
+        "ts": 1790446967.3833613
       }
     },
     "DHMa4M7rdTp2Q5PbqTGDwZjdCQX7BUqArKUDBrJNpump": {
@@ -206,12 +216,13 @@
       "ts": 1790347423.9559174,
       "msg_id": 30,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -14.3,
-        "outcome": "минус",
-        "ts": 1790351165.734219
+        "change": -98.2,
+        "outcome": "СКАМ ✖",
+        "ts": 1790446967.3833613
       }
     },
     "8Vte25yt28L8BfLXm8DrzjSYEyaKX8yry6hRKRmX7FGd": {
@@ -220,12 +231,13 @@
       "ts": 1790347427.1447673,
       "msg_id": 31,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -0.4,
-        "outcome": "без изменений",
-        "ts": 1790351165.734219
+        "change": -36.4,
+        "outcome": "минус",
+        "ts": 1790446967.3833613
       }
     },
     "8d6FRAKPvbr8inGe1C4NaEqd2GiBZXN2RE5ak7Qapump": {
@@ -234,12 +246,13 @@
       "ts": 1790348353.6373954,
       "msg_id": 33,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -93.9,
+        "change": -98.4,
         "outcome": "СКАМ ✖",
-        "ts": 1790352096.935714
+        "ts": 1790446967.3833613
       }
     },
     "4G5YDqDvwgwSS3nLPDGDpGuetbG7rZYzNSBb1U4Tqbzi": {
@@ -248,12 +261,13 @@
       "ts": 1790348356.6083941,
       "msg_id": 34,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 1.6,
+        "change": 93.6,
         "outcome": "плюс ✓",
-        "ts": 1790352096.935714
+        "ts": 1790446967.3833613
       }
     },
     "EfBRerdWRTVaXQHFejysTFjqU4EX2qDZuV9dj61tpump": {
@@ -262,12 +276,13 @@
       "ts": 1790348664.0148942,
       "msg_id": 35,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
         "change": -98.8,
         "outcome": "СКАМ ✖",
-        "ts": 1790352407.2842314
+        "ts": 1790446967.3833613
       }
     },
     "3f9gHGMaVy2EXFwv4sDixWZHFohUswLpFFwFS3PQpump": {
@@ -276,12 +291,13 @@
       "ts": 1790349298.2884195,
       "msg_id": 37,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
         "change": -98.8,
         "outcome": "СКАМ ✖",
-        "ts": 1790353041.8281841
+        "ts": 1790446967.3833613
       }
     },
     "n5Vu8DPpmJLthvkRH33N5uLHz9ZxkdErE8MfTFBpump": {
@@ -290,12 +306,13 @@
       "ts": 1790349301.2919948,
       "msg_id": 38,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 47.7,
-        "outcome": "плюс ✓",
-        "ts": 1790353041.8281841
+        "change": -99.1,
+        "outcome": "СКАМ ✖",
+        "ts": 1790446967.3833613
       }
     },
     "ZEtX7MPVZSKjBq6pD72tjb89KGJxSZNWjRqZEdASrXE": {
@@ -304,12 +321,13 @@
       "ts": 1790352711.8857079,
       "msg_id": 46,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -44.4,
+        "change": -61.8,
         "outcome": "минус",
-        "ts": 1790367016.8153138
+        "ts": 1790446967.3833613
       }
     },
     "8SerkEicthsnmh5hVubrH5GxSCwJD2FYK5MgnA96pump": {
@@ -318,12 +336,13 @@
       "ts": 1790353027.4680645,
       "msg_id": 47,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
         "change": -98.6,
         "outcome": "СКАМ ✖",
-        "ts": 1790367016.8153138
+        "ts": 1790446967.3833613
       }
     },
     "3V43dHnk3kkU3w8RnxEsmbJcHQppGjTJ3Mni3owDpump": {
@@ -332,12 +351,13 @@
       "ts": 1790353358.682756,
       "msg_id": 50,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -99.4,
+        "change": -99.5,
         "outcome": "СКАМ ✖",
-        "ts": 1790367016.8153138
+        "ts": 1790446967.3833613
       }
     },
     "CbouD8khLcz1Y1QngvRtQufUimSRKpHkvGn6y1n8pump": {
@@ -346,12 +366,13 @@
       "ts": 1790354287.3822467,
       "msg_id": 51,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 23.0,
+        "change": 65.1,
         "outcome": "плюс ✓",
-        "ts": 1790367016.8153138
+        "ts": 1790446967.3833613
       }
     },
     "CyKDftwgNsifHhno7o2Ypz35238LYK4wrJruWq3Npump": {
@@ -360,12 +381,13 @@
       "ts": 1790355800.0669918,
       "msg_id": 52,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -8.7,
-        "outcome": "минус",
-        "ts": 1790367016.8153138
+        "change": -92.4,
+        "outcome": "СКАМ ✖",
+        "ts": 1790446967.3833613
       }
     },
     "FYZcYCHSp8FzNba1UtDZydKKGosmxVNpFBiVuia38AhT": {
@@ -374,12 +396,13 @@
       "ts": 1790355816.54486,
       "msg_id": 53,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 7.7,
+        "change": 6.3,
         "outcome": "плюс ✓",
-        "ts": 1790367016.8153138
+        "ts": 1790446967.3833613
       }
     },
     "Adgt7dseCq71eN6GDuoUgpsNQp81ZNhq24nrF7pxpump": {
@@ -485,9 +508,23 @@
       "price": 0.7369,
       "ts": 1790424596.637311,
       "msg_id": 126,
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -1.4,
+        "outcome": "минус",
+        "ts": 1790446967.3833613
+      }
+    },
+    "CSrwNk6B1DwWCHRMsaoDVUfD5bBMQCJPY72ZG3Nnpump": {
+      "symbol": "Franklin",
+      "price": 6.162e-05,
+      "ts": 1790446957.6465945,
+      "msg_id": 204,
       "done": [],
       "last": null
     }
   },
-  "last_summary": "2026-09-25"
+  "last_summary": "2026-09-26"
 }
