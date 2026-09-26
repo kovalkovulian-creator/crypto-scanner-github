@@ -553,8 +553,14 @@
       "price": 0.0007886,
       "ts": 1790451337.4835691,
       "msg_id": 232,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -0.2,
+        "outcome": "без изменений",
+        "ts": 1790455021.452596
+      }
     },
     "HgcxVs6kJhPAaGqnPNGaa7zYgNT49hJrLufiqcNMuYZT": {
       "symbol": "FEELSGOOD",
