@@ -456,12 +456,13 @@
       "ts": 1790373195.6975386,
       "msg_id": 107,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 9.0,
-        "outcome": "плюс ✓",
-        "ts": 1790376882.6146762
+        "change": -18.3,
+        "outcome": "минус",
+        "ts": 1790459645.4202237
       }
     },
     "SPqTn8KkooByR41x3SsaNxGxXDqPFFRXR2Kkt8TJhSK": {
