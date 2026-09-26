@@ -581,8 +581,14 @@
       "price": 0.001651,
       "ts": 1790454406.9290366,
       "msg_id": 237,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -12.6,
+        "outcome": "минус",
+        "ts": 1790458113.2162035
+      }
     },
     "HaYRgD7rjwj1AwoWjafokj4196sufYm4vKFamLZVpump": {
       "symbol": "ARCHIBROWN",
