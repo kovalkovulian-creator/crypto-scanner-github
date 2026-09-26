@@ -441,12 +441,13 @@
       "ts": 1790367950.6413324,
       "msg_id": 100,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 1.3,
-        "outcome": "плюс ✓",
-        "ts": 1790371673.1678324
+        "change": -29.9,
+        "outcome": "минус",
+        "ts": 1790454408.9318678
       }
     },
     "8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z": {
@@ -560,6 +561,14 @@
       "price": 0.002079,
       "ts": 1790452870.9848676,
       "msg_id": 233,
+      "done": [],
+      "last": null
+    },
+    "7cXWSNTq71PZREBmGCBvZirkNwoGokWBQz9fWferViiV": {
+      "symbol": "ASTEROID",
+      "price": 0.001651,
+      "ts": 1790454406.9290366,
+      "msg_id": 237,
       "done": [],
       "last": null
     }
