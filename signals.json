@@ -51,12 +51,13 @@
       "ts": 1790338801.722195,
       "msg_id": 10,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -11.8,
+        "change": -82.9,
         "outcome": "минус",
-        "ts": 1790342496.4744518
+        "ts": 1790425206.8212912
       }
     },
     "ATqKVVa4h5WqjAMqJdG3mjtWXsW5SshyyUY7dXdvSvRs": {
