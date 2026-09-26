@@ -439,24 +439,42 @@
       "price": 0.0001238,
       "ts": 1790407088.7741141,
       "msg_id": 117,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 22.3,
+        "outcome": "плюс ✓",
+        "ts": 1790410812.016827
+      }
     },
     "2hbzoDxzvyspvXhxFkHkuxRNDyo3j2Z6aXUDy1A7pump": {
       "symbol": "ElNiño",
       "price": 0.0001545,
       "ts": 1790407124.2705195,
       "msg_id": 118,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -1.1,
+        "outcome": "минус",
+        "ts": 1790410812.016827
+      }
     },
     "AHFXxCjJmgsK9PtGsHrdAAG9yKip8xAM89SvGJ4Dmoon": {
       "symbol": "JBMB",
       "price": 0.0006754,
       "ts": 1790407137.30502,
       "msg_id": 119,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -8.2,
+        "outcome": "минус",
+        "ts": 1790410812.016827
+      }
     }
   },
   "last_summary": "2026-09-25"
