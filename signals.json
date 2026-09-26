@@ -433,6 +433,30 @@
         "outcome": "плюс ✓",
         "ts": 1790376882.6146762
       }
+    },
+    "SPqTn8KkooByR41x3SsaNxGxXDqPFFRXR2Kkt8TJhSK": {
+      "symbol": "ANSEM",
+      "price": 0.0001238,
+      "ts": 1790407088.7741141,
+      "msg_id": 117,
+      "done": [],
+      "last": null
+    },
+    "2hbzoDxzvyspvXhxFkHkuxRNDyo3j2Z6aXUDy1A7pump": {
+      "symbol": "ElNiño",
+      "price": 0.0001545,
+      "ts": 1790407124.2705195,
+      "msg_id": 118,
+      "done": [],
+      "last": null
+    },
+    "AHFXxCjJmgsK9PtGsHrdAAG9yKip8xAM89SvGJ4Dmoon": {
+      "symbol": "JBMB",
+      "price": 0.0006754,
+      "ts": 1790407137.30502,
+      "msg_id": 119,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-25"
