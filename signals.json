@@ -567,8 +567,14 @@
       "price": 0.002079,
       "ts": 1790452870.9848676,
       "msg_id": 233,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 5.3,
+        "outcome": "плюс ✓",
+        "ts": 1790456561.1032956
+      }
     },
     "7cXWSNTq71PZREBmGCBvZirkNwoGokWBQz9fWferViiV": {
       "symbol": "ASTEROID",
