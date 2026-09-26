@@ -524,6 +524,14 @@
       "msg_id": 204,
       "done": [],
       "last": null
+    },
+    "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump": {
+      "symbol": "NPC",
+      "price": 0.001085,
+      "ts": 1790449493.483203,
+      "msg_id": 230,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-26"
