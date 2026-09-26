@@ -522,8 +522,14 @@
       "price": 6.162e-05,
       "ts": 1790446957.6465945,
       "msg_id": 204,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 1.0,
+        "outcome": "без изменений",
+        "ts": 1790450723.969325
+      }
     },
     "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump": {
       "symbol": "NPC",
