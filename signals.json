@@ -536,8 +536,14 @@
       "price": 0.001085,
       "ts": 1790449493.483203,
       "msg_id": 230,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -5.5,
+        "outcome": "минус",
+        "ts": 1790453178.7812192
+      }
     },
     "4Ge6ejgv7KJHqDgML3w2S48rntuZQ4KZ9WGEVeibpump": {
       "symbol": "FTZNFRTZ",
