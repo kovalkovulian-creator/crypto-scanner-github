@@ -604,6 +604,14 @@
         "outcome": "минус",
         "ts": 1790460888.656608
       }
+    },
+    "44J1LiJu17k25UDCjoJ3H2EMbbne5dmqn576J4ZNyBYT": {
+      "symbol": "MINECOIN",
+      "price": 0.0001039,
+      "ts": 1790486708.254115,
+      "msg_id": 290,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-26"
