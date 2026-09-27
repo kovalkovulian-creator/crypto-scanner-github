@@ -705,6 +705,14 @@
       "msg_id": 380,
       "done": [],
       "last": null
+    },
+    "7BN68PVzqWV6EjK8J8Y6Q1h5C8FFD5ZRZVscXyJDpump": {
+      "symbol": "20xx",
+      "price": 0.0002842,
+      "ts": 1790542703.295724,
+      "msg_id": 381,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-27"
