@@ -618,6 +618,14 @@
         "outcome": "минус",
         "ts": 1790490358.007141
       }
+    },
+    "5GefefPX1mDs6ZJB1apYmz6fCTCiNJpHturZ9bvFpump": {
+      "symbol": "Pumpoween",
+      "price": 0.0006395,
+      "ts": 1790491586.647036,
+      "msg_id": 292,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-26"
