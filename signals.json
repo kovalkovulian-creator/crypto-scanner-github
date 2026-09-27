@@ -576,12 +576,13 @@
       "ts": 1790452870.9848676,
       "msg_id": 233,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 5.3,
-        "outcome": "плюс ✓",
-        "ts": 1790456561.1032956
+        "change": -99.8,
+        "outcome": "СКАМ ✖",
+        "ts": 1790539296.3618827
       }
     },
     "7cXWSNTq71PZREBmGCBvZirkNwoGokWBQz9fWferViiV": {
