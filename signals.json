@@ -531,12 +531,13 @@
       "ts": 1790446957.6465945,
       "msg_id": 204,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 1.0,
-        "outcome": "без изменений",
-        "ts": 1790450723.969325
+        "change": 4.8,
+        "outcome": "плюс ✓",
+        "ts": 1790533428.3719969
       }
     },
     "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump": {
