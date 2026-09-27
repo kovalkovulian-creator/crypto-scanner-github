@@ -471,12 +471,13 @@
       "ts": 1790407088.7741141,
       "msg_id": 117,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 22.3,
-        "outcome": "плюс ✓",
-        "ts": 1790410812.016827
+        "change": -63.2,
+        "outcome": "минус",
+        "ts": 1790493712.8296912
       }
     },
     "2hbzoDxzvyspvXhxFkHkuxRNDyo3j2Z6aXUDy1A7pump": {
@@ -485,12 +486,13 @@
       "ts": 1790407124.2705195,
       "msg_id": 118,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -1.1,
-        "outcome": "минус",
-        "ts": 1790410812.016827
+        "change": 15.9,
+        "outcome": "плюс ✓",
+        "ts": 1790493712.8296912
       }
     },
     "AHFXxCjJmgsK9PtGsHrdAAG9yKip8xAM89SvGJ4Dmoon": {
@@ -499,12 +501,13 @@
       "ts": 1790407137.30502,
       "msg_id": 119,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -8.2,
-        "outcome": "минус",
-        "ts": 1790410812.016827
+        "change": 6.6,
+        "outcome": "плюс ✓",
+        "ts": 1790493712.8296912
       }
     },
     "aqQRs3UJmHs7ktoLo46HZAzvG9P3oCoZ41nENqFbory": {
