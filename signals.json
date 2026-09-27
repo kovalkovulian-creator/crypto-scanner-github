@@ -655,8 +655,14 @@
       "price": 0.01879,
       "ts": 1790499214.405017,
       "msg_id": 298,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 96.6,
+        "outcome": "плюс ✓",
+        "ts": 1790502892.960634
+      }
     },
     "9GTFD2DHo1KHd73smcpJtdTEvA6C5zzXxoWzjnb51c8": {
       "symbol": "ACAT",
