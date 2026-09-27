@@ -516,12 +516,13 @@
       "ts": 1790424596.637311,
       "msg_id": 126,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -1.4,
+        "change": -1.9,
         "outcome": "минус",
-        "ts": 1790446967.3833613
+        "ts": 1790526851.554044
       }
     },
     "CSrwNk6B1DwWCHRMsaoDVUfD5bBMQCJPY72ZG3Nnpump": {
@@ -677,6 +678,14 @@
         "outcome": "минус",
         "ts": 1790505032.614581
       }
+    },
+    "CC5D6puFmcsnGaJh7kNXeAcRpL2SZzQfoQezvx45uKjt": {
+      "symbol": "WORLD",
+      "price": 0.0003656,
+      "ts": 1790526525.6676893,
+      "msg_id": 371,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-26"
