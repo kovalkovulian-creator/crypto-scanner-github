@@ -635,6 +635,14 @@
         "outcome": "плюс ✓",
         "ts": 1790495245.080979
       }
+    },
+    "Hd6U8SfLWCZCREYrT5XfwK2Nzat5QB3B8pbBvST4Tg5X": {
+      "symbol": "mog",
+      "price": 0.0002121,
+      "ts": 1790495853.445116,
+      "msg_id": 297,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-26"
