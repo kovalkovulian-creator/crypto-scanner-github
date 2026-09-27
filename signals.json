@@ -561,12 +561,13 @@
       "ts": 1790451337.4835691,
       "msg_id": 232,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -0.2,
+        "change": 0.0,
         "outcome": "без изменений",
-        "ts": 1790455021.452596
+        "ts": 1790538050.4743977
       }
     },
     "HgcxVs6kJhPAaGqnPNGaa7zYgNT49hJrLufiqcNMuYZT": {
