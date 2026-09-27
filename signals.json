@@ -704,8 +704,14 @@
       "price": 0.000692,
       "ts": 1790542064.9485962,
       "msg_id": 380,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 60.7,
+        "outcome": "плюс ✓",
+        "ts": 1790545777.684907
+      }
     },
     "7BN68PVzqWV6EjK8J8Y6Q1h5C8FFD5ZRZVscXyJDpump": {
       "symbol": "20xx",
