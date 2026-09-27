@@ -641,8 +641,14 @@
       "price": 0.0002121,
       "ts": 1790495853.445116,
       "msg_id": 297,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -8.3,
+        "outcome": "минус",
+        "ts": 1790499523.2785559
+      }
     },
     "udPEzBjbGMzYZbuLtByqLYhc4TEs6EebG8R7fwdpump": {
       "symbol": "TEXTIT",
