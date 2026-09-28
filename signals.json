@@ -636,12 +636,13 @@
       "ts": 1790491586.647036,
       "msg_id": 292,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 1.9,
+        "change": 18.0,
         "outcome": "плюс ✓",
-        "ts": 1790495245.080979
+        "ts": 1790578258.3580475
       }
     },
     "Hd6U8SfLWCZCREYrT5XfwK2Nzat5QB3B8pbBvST4Tg5X": {
