@@ -651,12 +651,13 @@
       "ts": 1790495853.445116,
       "msg_id": 297,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -8.3,
+        "change": -57.2,
         "outcome": "минус",
-        "ts": 1790499523.2785559
+        "ts": 1790582527.3458989
       }
     },
     "udPEzBjbGMzYZbuLtByqLYhc4TEs6EebG8R7fwdpump": {
