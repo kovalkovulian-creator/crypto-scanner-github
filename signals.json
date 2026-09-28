@@ -774,6 +774,14 @@
         "outcome": "минус",
         "ts": 1790612379.5075822
       }
+    },
+    "EGTFrUPym8JnEMAddZjuhBkcSGEGTM75qymxUZgTpump": {
+      "symbol": "Lobby",
+      "price": 0.00011,
+      "ts": 1790613621.4877782,
+      "msg_id": 517,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-27"
