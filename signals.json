@@ -780,8 +780,14 @@
       "price": 0.00011,
       "ts": 1790613621.4877782,
       "msg_id": 517,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 4.6,
+        "outcome": "плюс ✓",
+        "ts": 1790617322.7090712
+      }
     },
     "F9SAHZVQ7U1mgx8V9Xk1a1EgPtrEVsxQJZa9CUw8uQSp": {
       "symbol": "LOOT",
