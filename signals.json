@@ -666,12 +666,13 @@
       "ts": 1790499214.405017,
       "msg_id": 298,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 96.6,
+        "change": 10.8,
         "outcome": "плюс ✓",
-        "ts": 1790502892.960634
+        "ts": 1790585886.1258595
       }
     },
     "9GTFD2DHo1KHd73smcpJtdTEvA6C5zzXxoWzjnb51c8": {
