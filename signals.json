@@ -621,12 +621,13 @@
       "ts": 1790486708.254115,
       "msg_id": 290,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -11.7,
+        "change": -50.8,
         "outcome": "минус",
-        "ts": 1790490358.007141
+        "ts": 1790573383.415945
       }
     },
     "5GefefPX1mDs6ZJB1apYmz6fCTCiNJpHturZ9bvFpump": {
