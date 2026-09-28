@@ -737,24 +737,42 @@
       "price": 9.78e-05,
       "ts": 1790608667.699508,
       "msg_id": 509,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 26.8,
+        "outcome": "плюс ✓",
+        "ts": 1790612379.5075822
+      }
     },
     "7nLukVng5teXze14rum9v57juXLjUp7JJnCveko1pump": {
       "symbol": "Martians",
       "price": 0.0002533,
       "ts": 1790608672.7721756,
       "msg_id": 510,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -2.1,
+        "outcome": "минус",
+        "ts": 1790612379.5075822
+      }
     },
     "7tAnusL3srXjzEriVL86a23KgwDZKXJTZ2ezEUubonk": {
       "symbol": "AI",
       "price": 0.0001219,
       "ts": 1790608677.912396,
       "msg_id": 511,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -1.2,
+        "outcome": "минус",
+        "ts": 1790612379.5075822
+      }
     }
   },
   "last_summary": "2026-09-27"
