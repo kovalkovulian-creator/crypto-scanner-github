@@ -711,12 +711,13 @@
       "ts": 1790542064.9485962,
       "msg_id": 380,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 60.7,
-        "outcome": "плюс ✓",
-        "ts": 1790545777.684907
+        "change": -42.8,
+        "outcome": "минус",
+        "ts": 1790632246.341706
       }
     },
     "7BN68PVzqWV6EjK8J8Y6Q1h5C8FFD5ZRZVscXyJDpump": {
@@ -725,12 +726,13 @@
       "ts": 1790542703.295724,
       "msg_id": 381,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 32.8,
+        "change": 66.2,
         "outcome": "плюс ✓",
-        "ts": 1790566361.281061
+        "ts": 1790632246.341706
       }
     },
     "82ezhRLKdKwkSC9jkM3js1yf93VbmvLXNMPkBmompump": {
@@ -802,6 +804,14 @@
         "outcome": "минус",
         "ts": 1790618865.0876977
       }
+    },
+    "CaWZeUM4FvX9dPkjGc2xHS6tSN3qJfTWyvaG77aM5o7h": {
+      "symbol": "AGI",
+      "price": 0.0008485,
+      "ts": 1790632239.2567677,
+      "msg_id": 522,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-28"
