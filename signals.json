@@ -818,6 +818,14 @@
         "outcome": "плюс ✓",
         "ts": 1790635961.778767
       }
+    },
+    "2pouN3by7twkiZGy5aEKYUpf78ALDpKRTNu2WsQkpkqt": {
+      "symbol": "BUTT",
+      "price": 0.000678,
+      "ts": 1790646741.7532437,
+      "msg_id": 526,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-28"
