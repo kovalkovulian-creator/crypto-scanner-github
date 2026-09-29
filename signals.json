@@ -893,6 +893,14 @@
         "outcome": "плюс ✓",
         "ts": 1790700129.2578719
       }
+    },
+    "HeC2xWqGT9gPfdvaMuqxPo2bUQ1XgY5wRtnrwTEHpump": {
+      "symbol": "BELIEVE",
+      "price": 0.0005051,
+      "ts": 1790714967.3147883,
+      "msg_id": 603,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-29"
