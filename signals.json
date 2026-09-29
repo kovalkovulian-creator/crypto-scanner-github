@@ -786,12 +786,13 @@
       "ts": 1790613621.4877782,
       "msg_id": 517,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 4.6,
+        "change": 57.5,
         "outcome": "плюс ✓",
-        "ts": 1790617322.7090712
+        "ts": 1790700129.2578719
       }
     },
     "F9SAHZVQ7U1mgx8V9Xk1a1EgPtrEVsxQJZa9CUw8uQSp": {
@@ -869,16 +870,28 @@
       "price": 0.2493,
       "ts": 1790696411.0747464,
       "msg_id": 591,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 57.8,
+        "outcome": "плюс ✓",
+        "ts": 1790700129.2578719
+      }
     },
     "68fn2tLABKmS7VA9Eaz3n6RfoXM3iBWUACckT9dwpump": {
       "symbol": "HAPPY",
       "price": 0.001587,
       "ts": 1790696426.243492,
       "msg_id": 592,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 2.7,
+        "outcome": "плюс ✓",
+        "ts": 1790700129.2578719
+      }
     }
   },
   "last_summary": "2026-09-28"
