@@ -832,6 +832,22 @@
         "outcome": "плюс ✓",
         "ts": 1790650423.2596514
       }
+    },
+    "6zkvGacejiBiF3tzY1kjdQCoMBo4WvH6MeavQq8hqTQq": {
+      "symbol": "PAIR",
+      "price": 0.004184,
+      "ts": 1790689186.2756956,
+      "msg_id": 589,
+      "done": [],
+      "last": null
+    },
+    "7MCgYMzq3fov6oERdtTMAYbN2U9LZrrSYS1MBhjixZFr": {
+      "symbol": "POLLY",
+      "price": 0.001494,
+      "ts": 1790689189.502708,
+      "msg_id": 590,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-28"
