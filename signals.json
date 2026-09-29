@@ -741,12 +741,13 @@
       "ts": 1790608667.699508,
       "msg_id": 509,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 26.8,
+        "change": 45.4,
         "outcome": "плюс ✓",
-        "ts": 1790612379.5075822
+        "ts": 1790696437.8088443
       }
     },
     "7nLukVng5teXze14rum9v57juXLjUp7JJnCveko1pump": {
@@ -755,12 +756,13 @@
       "ts": 1790608672.7721756,
       "msg_id": 510,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -2.1,
-        "outcome": "минус",
-        "ts": 1790612379.5075822
+        "change": 4.5,
+        "outcome": "плюс ✓",
+        "ts": 1790696437.8088443
       }
     },
     "7tAnusL3srXjzEriVL86a23KgwDZKXJTZ2ezEUubonk": {
@@ -769,12 +771,13 @@
       "ts": 1790608677.912396,
       "msg_id": 511,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -1.2,
-        "outcome": "минус",
-        "ts": 1790612379.5075822
+        "change": 7.9,
+        "outcome": "плюс ✓",
+        "ts": 1790696437.8088443
       }
     },
     "EGTFrUPym8JnEMAddZjuhBkcSGEGTM75qymxUZgTpump": {
@@ -838,14 +841,42 @@
       "price": 0.004184,
       "ts": 1790689186.2756956,
       "msg_id": 589,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -1.5,
+        "outcome": "минус",
+        "ts": 1790696437.8088443
+      }
     },
     "7MCgYMzq3fov6oERdtTMAYbN2U9LZrrSYS1MBhjixZFr": {
       "symbol": "POLLY",
       "price": 0.001494,
       "ts": 1790689189.502708,
       "msg_id": 590,
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -11.0,
+        "outcome": "минус",
+        "ts": 1790696437.8088443
+      }
+    },
+    "EU5WWxWBjDzfs3pvb6N7yuc6gBfo5Ltao6qfdXDiH2U3": {
+      "symbol": "SLATE",
+      "price": 0.2493,
+      "ts": 1790696411.0747464,
+      "msg_id": 591,
+      "done": [],
+      "last": null
+    },
+    "68fn2tLABKmS7VA9Eaz3n6RfoXM3iBWUACckT9dwpump": {
+      "symbol": "HAPPY",
+      "price": 0.001587,
+      "ts": 1790696426.243492,
+      "msg_id": 592,
       "done": [],
       "last": null
     }
