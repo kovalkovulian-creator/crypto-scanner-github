@@ -959,8 +959,14 @@
       "price": 0.000131,
       "ts": 1790778974.74408,
       "msg_id": 690,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 5.9,
+        "outcome": "плюс ✓",
+        "ts": 1790782664.2553432
+      }
     },
     "5THtNEGTF1y67eRWvcgz3MomDZePCVx1xdskHHeCpump": {
       "symbol": "Saturween",
