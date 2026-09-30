@@ -816,12 +816,13 @@
       "ts": 1790632239.2567677,
       "msg_id": 522,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 12.2,
+        "change": 52.7,
         "outcome": "плюс ✓",
-        "ts": 1790635961.778767
+        "ts": 1790736329.200899
       }
     },
     "2pouN3by7twkiZGy5aEKYUpf78ALDpKRTNu2WsQkpkqt": {
@@ -830,12 +831,13 @@
       "ts": 1790646741.7532437,
       "msg_id": 526,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 1.4,
+        "change": 1.3,
         "outcome": "плюс ✓",
-        "ts": 1790650423.2596514
+        "ts": 1790736329.200899
       }
     },
     "6zkvGacejiBiF3tzY1kjdQCoMBo4WvH6MeavQq8hqTQq": {
@@ -899,6 +901,20 @@
       "price": 0.0005051,
       "ts": 1790714967.3147883,
       "msg_id": 603,
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 1.0,
+        "outcome": "плюс ✓",
+        "ts": 1790736329.200899
+      }
+    },
+    "DeqsPTYwvsNjkf5G8zDxziUnFPp55nQZA4vrNM2apump": {
+      "symbol": "QNT",
+      "price": 0.0001694,
+      "ts": 1790736314.860732,
+      "msg_id": 669,
       "done": [],
       "last": null
     }
