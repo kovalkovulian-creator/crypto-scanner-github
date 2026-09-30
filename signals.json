@@ -931,16 +931,28 @@
       "price": 0.0001608,
       "ts": 1790776196.482716,
       "msg_id": 686,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 0.1,
+        "outcome": "без изменений",
+        "ts": 1790779891.227151
+      }
     },
     "EWgq2xUb6eVCApeQombkPxd6uFjM8j9zRUXFS9MjKTiv": {
       "symbol": "CTO",
       "price": 0.0001475,
       "ts": 1790776210.9289458,
       "msg_id": 687,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 0.7,
+        "outcome": "без изменений",
+        "ts": 1790779891.227151
+      }
     },
     "HppB5rMgVsUqua42N2TEDcjwy7gLuAm6dq5qMSLZpump": {
       "symbol": "PUMPGU",
