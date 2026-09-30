@@ -846,12 +846,13 @@
       "ts": 1790689186.2756956,
       "msg_id": 589,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -1.5,
-        "outcome": "минус",
-        "ts": 1790696437.8088443
+        "change": 1.7,
+        "outcome": "плюс ✓",
+        "ts": 1790776212.9335353
       }
     },
     "7MCgYMzq3fov6oERdtTMAYbN2U9LZrrSYS1MBhjixZFr": {
@@ -860,12 +861,13 @@
       "ts": 1790689189.502708,
       "msg_id": 590,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -11.0,
+        "change": -7.6,
         "outcome": "минус",
-        "ts": 1790696437.8088443
+        "ts": 1790776212.9335353
       }
     },
     "EU5WWxWBjDzfs3pvb6N7yuc6gBfo5Ltao6qfdXDiH2U3": {
@@ -923,6 +925,22 @@
         "outcome": "минус",
         "ts": 1790740016.6408706
       }
+    },
+    "8StnEDgfxfvxpCUUMH9ChXaqAkGGtxvnfxCAYHYnPXja": {
+      "symbol": "FLOPPY",
+      "price": 0.0001608,
+      "ts": 1790776196.482716,
+      "msg_id": 686,
+      "done": [],
+      "last": null
+    },
+    "EWgq2xUb6eVCApeQombkPxd6uFjM8j9zRUXFS9MjKTiv": {
+      "symbol": "CTO",
+      "price": 0.0001475,
+      "ts": 1790776210.9289458,
+      "msg_id": 687,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-29"
