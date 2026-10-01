@@ -999,6 +999,14 @@
         "outcome": "плюс ✓",
         "ts": 1790829590.9684167
       }
+    },
+    "7MuvW6G2pDTGSjzpjqeDYigUsXqqd6TmEzLgvRRopump": {
+      "symbol": "USDF",
+      "price": 0.0007888,
+      "ts": 1790834807.8679001,
+      "msg_id": 716,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-30"
