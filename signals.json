@@ -906,12 +906,13 @@
       "ts": 1790714967.3147883,
       "msg_id": 603,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 1.0,
-        "outcome": "плюс ✓",
-        "ts": 1790736329.200899
+        "change": 0.7,
+        "outcome": "без изменений",
+        "ts": 1790816420.456745
       }
     },
     "DeqsPTYwvsNjkf5G8zDxziUnFPp55nQZA4vrNM2apump": {
