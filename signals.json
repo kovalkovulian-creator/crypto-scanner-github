@@ -1065,6 +1065,28 @@
       "price": 0.0006526,
       "ts": 1790875564.7659967,
       "msg_id": 799,
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -19.2,
+        "outcome": "минус",
+        "ts": 1790896503.2262905
+      }
+    },
+    "HSUMi4rMgjrx7zRUabw3ogGu1pa5hmF2eVcXj9Apump": {
+      "symbol": "goon",
+      "price": 0.0001585,
+      "ts": 1790896477.702716,
+      "msg_id": 883,
+      "done": [],
+      "last": null
+    },
+    "9aqmJjCnnMQv42TXLk921ceUkN35nea2QP969n1caqjj": {
+      "symbol": "SI",
+      "price": 0.003803,
+      "ts": 1790896496.63527,
+      "msg_id": 884,
       "done": [],
       "last": null
     }
