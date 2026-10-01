@@ -1037,8 +1037,14 @@
       "price": 0.0001495,
       "ts": 1790870608.5163636,
       "msg_id": 794,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -0.7,
+        "outcome": "без изменений",
+        "ts": 1790874327.7678218
+      }
     },
     "Edpcd9aYh6BVRKV5hYrgnEuJ3MHAFcdnHtSL9yvopump": {
       "symbol": "Pinata",
