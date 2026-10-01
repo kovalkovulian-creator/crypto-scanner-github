@@ -921,12 +921,13 @@
       "ts": 1790736314.860732,
       "msg_id": 669,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -2.0,
-        "outcome": "минус",
-        "ts": 1790740016.6408706
+        "change": 0.6,
+        "outcome": "без изменений",
+        "ts": 1790822845.441341
       }
     },
     "8StnEDgfxfvxpCUUMH9ChXaqAkGGtxvnfxCAYHYnPXja": {
