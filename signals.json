@@ -985,6 +985,14 @@
         "outcome": "минус",
         "ts": 1790784203.910149
       }
+    },
+    "H8WTvo3ZXSYHJAcYqzCforbG8coR1FDAX2kHFfqHBAGS": {
+      "symbol": "BAGSPAY",
+      "price": 0.0009456,
+      "ts": 1790825917.9524436,
+      "msg_id": 714,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-30"
