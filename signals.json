@@ -981,12 +981,13 @@
       "ts": 1790780511.9766927,
       "msg_id": 693,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -9.9,
-        "outcome": "минус",
-        "ts": 1790784203.910149
+        "change": 8.4,
+        "outcome": "плюс ✓",
+        "ts": 1790866917.9161022
       }
     },
     "H8WTvo3ZXSYHJAcYqzCforbG8coR1FDAX2kHFfqHBAGS": {
