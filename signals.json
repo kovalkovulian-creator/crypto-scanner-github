@@ -1059,6 +1059,14 @@
         "outcome": "без изменений",
         "ts": 1790875252.1293473
       }
+    },
+    "8oMvxgcBJtDGNSc8kogCEEFxSvvi7x6jHRfSWaiWpump": {
+      "symbol": "DOMAIN",
+      "price": 0.0006526,
+      "ts": 1790875564.7659967,
+      "msg_id": 799,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-30"
