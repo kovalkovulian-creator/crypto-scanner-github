@@ -1017,6 +1017,14 @@
         "outcome": "минус",
         "ts": 1790856497.2558277
       }
+    },
+    "H4KUxsEgCp2yDpFvyDuGM5k6XevSKKrrKUxZ3Zr6nyJc": {
+      "symbol": "COCKROACH",
+      "price": 0.00152,
+      "ts": 1790870298.6889772,
+      "msg_id": 793,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-30"
