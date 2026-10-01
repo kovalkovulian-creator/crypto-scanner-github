@@ -1023,8 +1023,14 @@
       "price": 0.00152,
       "ts": 1790870298.6889772,
       "msg_id": 793,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -2.2,
+        "outcome": "минус",
+        "ts": 1790874016.616221
+      }
     },
     "GfkfESc5A4EkxCGWsymNY4ZfkCDdvtB7ajCybLfYL1Qq": {
       "symbol": "AOC",
