@@ -1185,6 +1185,14 @@
         "outcome": "без изменений",
         "ts": 1790980055.5926626
       }
+    },
+    "148fJTrVybPyQqzTxNzfLQq5sxVkMfmV2cLpAyVnNCX3": {
+      "symbol": "ZAZA",
+      "price": 0.000108,
+      "ts": 1790980686.0151823,
+      "msg_id": 1032,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-30"
