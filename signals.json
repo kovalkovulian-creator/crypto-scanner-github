@@ -7,12 +7,13 @@
       "msg_id": null,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 103.5,
-        "outcome": "плюс ✓",
-        "ts": 1790416933.6160886
+        "change": -92.8,
+        "outcome": "СКАМ ✖",
+        "ts": 1790936423.1713638
       }
     },
     "AQVcP67EpMyu4cBZZjqMu91cVsWy1aX98JmcZm1FyY9": {
@@ -22,12 +23,13 @@
       "msg_id": null,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -40.5,
+        "change": -56.2,
         "outcome": "минус",
-        "ts": 1790416933.6160886
+        "ts": 1790936423.1713638
       }
     },
     "J141JCiXKGcrhDCgWUTCL9qz7h943iCibNiLNfqZpump": {
@@ -1011,12 +1013,13 @@
       "ts": 1790834807.8679001,
       "msg_id": 716,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -1.2,
-        "outcome": "минус",
-        "ts": 1790856497.2558277
+        "change": 3.4,
+        "outcome": "плюс ✓",
+        "ts": 1790936423.1713638
       }
     },
     "H4KUxsEgCp2yDpFvyDuGM5k6XevSKKrrKUxZ3Zr6nyJc": {
