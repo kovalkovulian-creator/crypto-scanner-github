@@ -1124,6 +1124,14 @@
         "outcome": "плюс ✓",
         "ts": 1790947751.7928088
       }
+    },
+    "3iUTyNYW6xKv5kZUjtbrEDTsuJTrSVwvB3bQtxkLpump": {
+      "symbol": "bukangi",
+      "price": 0.0003539,
+      "ts": 1790948367.6036012,
+      "msg_id": 975,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-30"
