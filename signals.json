@@ -211,12 +211,13 @@
       "msg_id": 29,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -99.0,
+        "change": -99.1,
         "outcome": "СКАМ ✖",
-        "ts": 1790446967.3833613
+        "ts": 1790952048.69849
       }
     },
     "DHMa4M7rdTp2Q5PbqTGDwZjdCQX7BUqArKUDBrJNpump": {
@@ -1132,8 +1133,14 @@
       "price": 0.0003539,
       "ts": 1790948367.6036012,
       "msg_id": 975,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 12.7,
+        "outcome": "плюс ✓",
+        "ts": 1790952048.69849
+      }
     }
   },
   "last_summary": "2026-09-30"
