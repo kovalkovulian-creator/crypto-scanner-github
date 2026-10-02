@@ -148,12 +148,13 @@
       "msg_id": 19,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 29.3,
-        "outcome": "плюс ✓",
-        "ts": 1790446967.3833613
+        "change": -83.0,
+        "outcome": "минус",
+        "ts": 1790947751.7928088
       }
     },
     "2VeuwcJYtu9P1g27a1UahFsJmVZRBWfBvLJcuzvApump": {
@@ -1115,8 +1116,14 @@
       "price": 0.0004162,
       "ts": 1790944073.8610575,
       "msg_id": 967,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 15.3,
+        "outcome": "плюс ✓",
+        "ts": 1790947751.7928088
+      }
     }
   },
   "last_summary": "2026-09-30"
