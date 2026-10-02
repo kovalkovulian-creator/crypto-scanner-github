@@ -1107,6 +1107,14 @@
         "outcome": "плюс ✓",
         "ts": 1790900202.089177
       }
+    },
+    "7KEPApdbBMByrmqihz3bht2uMhFQcatjfSFQCKq66kH3": {
+      "symbol": "DARK",
+      "price": 0.0004162,
+      "ts": 1790944073.8610575,
+      "msg_id": 967,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-30"
