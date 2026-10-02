@@ -87,12 +87,13 @@
       "msg_id": 14,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -27.1,
+        "change": -62.9,
         "outcome": "минус",
-        "ts": 1790446967.3833613
+        "ts": 1790945911.0066748
       }
     },
     "5hnUsEmCXNycRztDGkbDdeveyCaWJoG3rYUW3wtzpump": {
