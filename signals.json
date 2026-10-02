@@ -242,12 +242,13 @@
       "msg_id": 31,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -36.4,
-        "outcome": "минус",
-        "ts": 1790446967.3833613
+        "change": -95.7,
+        "outcome": "СКАМ ✖",
+        "ts": 1790952361.6512609
       }
     },
     "8d6FRAKPvbr8inGe1C4NaEqd2GiBZXN2RE5ak7Qapump": {
