@@ -1163,16 +1163,28 @@
       "price": 1.006e-06,
       "ts": 1790976297.9232793,
       "msg_id": 1015,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 0.8,
+        "outcome": "без изменений",
+        "ts": 1790980055.5926626
+      }
     },
     "9AvytnUKsLxPxFHFqS6VLxaxt5p6BhYNr53SD2Chpump": {
       "symbol": "67",
       "price": 0.002686,
       "ts": 1790976317.2440066,
       "msg_id": 1016,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 0.1,
+        "outcome": "без изменений",
+        "ts": 1790980055.5926626
+      }
     }
   },
   "last_summary": "2026-09-30"
