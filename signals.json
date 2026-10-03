@@ -1156,12 +1156,13 @@
       "ts": 1790948367.6036012,
       "msg_id": 975,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 12.7,
-        "outcome": "плюс ✓",
-        "ts": 1790952048.69849
+        "change": -3.9,
+        "outcome": "минус",
+        "ts": 1791034943.6917593
       }
     },
     "rizo34MUwbCBqpSTSfnEktdWB4CTByqqYh8zBxL3WAR": {
