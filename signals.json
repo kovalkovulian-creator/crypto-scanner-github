@@ -427,8 +427,14 @@
       "price": 0.0001133,
       "ts": 1791055979.5891569,
       "msg_id": 1227,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 11.2,
+        "outcome": "плюс ✓",
+        "ts": 1791059716.5973856
+      }
     },
     "D1YZZg9dBZ7AbfknZVbaeVLto36eySwoFYEVhZrD4F4n": {
       "symbol": "GO",
@@ -1251,24 +1257,42 @@
       "price": 0.0003784,
       "ts": 1791055913.4572997,
       "msg_id": 1225,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -3.0,
+        "outcome": "минус",
+        "ts": 1791059716.5973856
+      }
     },
     "6e8LLHkqCTa4mzGuL1PoUxSfeHmDeceJ3DaJSSUNg937": {
       "symbol": "ARTHUR",
       "price": 0.000667,
       "ts": 1791055960.481481,
       "msg_id": 1226,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -17.7,
+        "outcome": "минус",
+        "ts": 1791059716.5973856
+      }
     },
     "DvNcJZTiSMD1RBCtZ2J31mh7s42CVCwrzGapv1Lypump": {
       "symbol": "MICRO",
       "price": 0.0004312,
       "ts": 1791055984.5907824,
       "msg_id": 1228,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 1.0,
+        "outcome": "плюс ✓",
+        "ts": 1791059716.5973856
+      }
     }
   },
   "last_summary": "2026-10-03"
