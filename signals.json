@@ -1175,12 +1175,13 @@
       "ts": 1790976297.9232793,
       "msg_id": 1015,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 0.8,
+        "change": -0.6,
         "outcome": "без изменений",
-        "ts": 1790980055.5926626
+        "ts": 1791062822.408744
       }
     },
     "9AvytnUKsLxPxFHFqS6VLxaxt5p6BhYNr53SD2Chpump": {
@@ -1189,12 +1190,13 @@
       "ts": 1790976317.2440066,
       "msg_id": 1016,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 0.1,
-        "outcome": "без изменений",
-        "ts": 1790980055.5926626
+        "change": -10.4,
+        "outcome": "минус",
+        "ts": 1791062822.408744
       }
     },
     "148fJTrVybPyQqzTxNzfLQq5sxVkMfmV2cLpAyVnNCX3": {
