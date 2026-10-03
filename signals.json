@@ -1231,6 +1231,14 @@
         "outcome": "без изменений",
         "ts": 1791019618.1783793
       }
+    },
+    "AznQHuzyocZYUHWqszxs6cJtS8WwEuhzPzJoqYXTpump": {
+      "symbol": "SARP",
+      "price": 0.0009275,
+      "ts": 1791022684.5174615,
+      "msg_id": 1130,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-30"
