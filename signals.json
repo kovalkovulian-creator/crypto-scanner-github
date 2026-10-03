@@ -541,12 +541,13 @@
       "msg_id": 126,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -1.9,
-        "outcome": "минус",
-        "ts": 1790526851.554044
+        "change": 4.0,
+        "outcome": "плюс ✓",
+        "ts": 1791029425.3586638
       }
     },
     "CSrwNk6B1DwWCHRMsaoDVUfD5bBMQCJPY72ZG3Nnpump": {
