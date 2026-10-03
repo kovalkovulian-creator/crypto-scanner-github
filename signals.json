@@ -424,19 +424,11 @@
     },
     "Adgt7dseCq71eN6GDuoUgpsNQp81ZNhq24nrF7pxpump": {
       "symbol": "Noiz",
-      "price": 0.0001049,
-      "ts": 1790366984.1573799,
-      "msg_id": 81,
-      "done": [
-        1,
-        24,
-        168
-      ],
-      "last": {
-        "change": -2.2,
-        "outcome": "минус",
-        "ts": 1790976323.9023995
-      }
+      "price": 0.0001133,
+      "ts": 1791055979.5891569,
+      "msg_id": 1227,
+      "done": [],
+      "last": null
     },
     "D1YZZg9dBZ7AbfknZVbaeVLto36eySwoFYEVhZrD4F4n": {
       "symbol": "GO",
@@ -557,12 +549,13 @@
       "msg_id": 204,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 4.8,
-        "outcome": "плюс ✓",
-        "ts": 1790533428.3719969
+        "change": -18.5,
+        "outcome": "минус",
+        "ts": 1791055988.9891684
       }
     },
     "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump": {
@@ -572,12 +565,13 @@
       "msg_id": 230,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -57.2,
+        "change": -86.7,
         "outcome": "минус",
-        "ts": 1790536194.6053665
+        "ts": 1791055988.9891684
       }
     },
     "4Ge6ejgv7KJHqDgML3w2S48rntuZQ4KZ9WGEVeibpump": {
@@ -1248,7 +1242,31 @@
         "outcome": "плюс ✓",
         "ts": 1791026361.2293174
       }
+    },
+    "GMs6WtQSRoqKcTq2JaGYPE2o55XKD58cJiLDyhUHYnr3": {
+      "symbol": "PIGEON",
+      "price": 0.0003784,
+      "ts": 1791055913.4572997,
+      "msg_id": 1225,
+      "done": [],
+      "last": null
+    },
+    "6e8LLHkqCTa4mzGuL1PoUxSfeHmDeceJ3DaJSSUNg937": {
+      "symbol": "ARTHUR",
+      "price": 0.000667,
+      "ts": 1791055960.481481,
+      "msg_id": 1226,
+      "done": [],
+      "last": null
+    },
+    "DvNcJZTiSMD1RBCtZ2J31mh7s42CVCwrzGapv1Lypump": {
+      "symbol": "MICRO",
+      "price": 0.0004312,
+      "ts": 1791055984.5907824,
+      "msg_id": 1228,
+      "done": [],
+      "last": null
     }
   },
-  "last_summary": "2026-09-30"
+  "last_summary": "2026-10-03"
 }
