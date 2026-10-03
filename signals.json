@@ -597,12 +597,13 @@
       "msg_id": 233,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -99.8,
-        "outcome": "СКАМ ✖",
-        "ts": 1790539296.3618827
+        "change": -50.3,
+        "outcome": "минус",
+        "ts": 1791057840.0316374
       }
     },
     "7cXWSNTq71PZREBmGCBvZirkNwoGokWBQz9fWferViiV": {
