@@ -1201,6 +1201,14 @@
         "outcome": "плюс ✓",
         "ts": 1790984386.5283105
       }
+    },
+    "8f5m7Y8po64WviteV1LKnN43M8Z8gUvDnNWRkDK1aSXo": {
+      "symbol": "LLAMA",
+      "price": 0.0004327,
+      "ts": 1790987155.7338665,
+      "msg_id": 1036,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-30"
