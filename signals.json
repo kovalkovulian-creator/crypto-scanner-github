@@ -82,19 +82,11 @@
     },
     "BxftAowY2dVa2h9KMqDTPk4oMxzU9k6uVbZuoorXpump": {
       "symbol": "Holdoween",
-      "price": 0.00162,
-      "ts": 1790340959.5281205,
-      "msg_id": 14,
-      "done": [
-        1,
-        24,
-        168
-      ],
-      "last": {
-        "change": -62.9,
-        "outcome": "минус",
-        "ts": 1790945911.0066748
-      }
+      "price": 0.0006572,
+      "ts": 1790993289.4683993,
+      "msg_id": 1038,
+      "done": [],
+      "last": null
     },
     "5hnUsEmCXNycRztDGkbDdeveyCaWJoG3rYUW3wtzpump": {
       "symbol": "JEANCAT",
