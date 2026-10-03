@@ -85,8 +85,14 @@
       "price": 0.0006572,
       "ts": 1790993289.4683993,
       "msg_id": 1038,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -11.7,
+        "outcome": "минус",
+        "ts": 1791015930.6392002
+      }
     },
     "5hnUsEmCXNycRztDGkbDdeveyCaWJoG3rYUW3wtzpump": {
       "symbol": "JEANCAT",
@@ -487,12 +493,13 @@
       "msg_id": 117,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -63.2,
+        "change": -78.6,
         "outcome": "минус",
-        "ts": 1790493712.8296912
+        "ts": 1791015930.6392002
       }
     },
     "2hbzoDxzvyspvXhxFkHkuxRNDyo3j2Z6aXUDy1A7pump": {
@@ -502,12 +509,13 @@
       "msg_id": 118,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 15.9,
+        "change": 10.6,
         "outcome": "плюс ✓",
-        "ts": 1790493712.8296912
+        "ts": 1791015930.6392002
       }
     },
     "AHFXxCjJmgsK9PtGsHrdAAG9yKip8xAM89SvGJ4Dmoon": {
@@ -517,12 +525,13 @@
       "msg_id": 119,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 6.6,
-        "outcome": "плюс ✓",
-        "ts": 1790493712.8296912
+        "change": -35.7,
+        "outcome": "минус",
+        "ts": 1791015930.6392002
       }
     },
     "aqQRs3UJmHs7ktoLo46HZAzvG9P3oCoZ41nENqFbory": {
@@ -1208,6 +1217,14 @@
         "outcome": "плюс ✓",
         "ts": 1790990839.0488565
       }
+    },
+    "3zKhzZhbfU2wgpaTwNTL6tietudCQFZFC9c3MuNRpump": {
+      "symbol": "LUNC",
+      "price": 0.0001332,
+      "ts": 1791015923.6516442,
+      "msg_id": 1124,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-09-30"
