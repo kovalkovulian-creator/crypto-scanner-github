@@ -1336,24 +1336,42 @@
       "price": 0.0003226,
       "ts": 1791095681.769216,
       "msg_id": 1343,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 0.3,
+        "outcome": "без изменений",
+        "ts": 1791099403.3372593
+      }
     },
     "BQJfL1yiHbJQ8AciHLcKxaCbQrWP2ws8oZHHYgbBpump": {
       "symbol": "CACKLE",
       "price": 0.0001288,
       "ts": 1791095687.0321975,
       "msg_id": 1344,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 1.3,
+        "outcome": "плюс ✓",
+        "ts": 1791099403.3372593
+      }
     },
     "HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump": {
       "symbol": "MISTAKE",
       "price": 0.01702,
       "ts": 1791095694.7224076,
       "msg_id": 1345,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -15.7,
+        "outcome": "минус",
+        "ts": 1791099403.3372593
+      }
     }
   },
   "last_summary": "2026-10-03"
