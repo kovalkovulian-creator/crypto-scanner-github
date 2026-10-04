@@ -1367,6 +1367,14 @@
         "outcome": "минус",
         "ts": 1791099403.3372593
       }
+    },
+    "2GYMvnSv37djKecDshE8bYe2sRypcETeAF8G9h6un4J2": {
+      "symbol": "SpaceXSI",
+      "price": 0.001175,
+      "ts": 1791105561.9821122,
+      "msg_id": 1359,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-03"
