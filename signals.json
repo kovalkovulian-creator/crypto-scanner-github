@@ -86,12 +86,13 @@
       "ts": 1790993289.4683993,
       "msg_id": 1038,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -11.7,
+        "change": -41.3,
         "outcome": "минус",
-        "ts": 1791015930.6392002
+        "ts": 1791095699.1311538
       }
     },
     "5hnUsEmCXNycRztDGkbDdeveyCaWJoG3rYUW3wtzpump": {
@@ -257,12 +258,13 @@
       "msg_id": 33,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
         "change": -98.4,
         "outcome": "СКАМ ✖",
-        "ts": 1790446967.3833613
+        "ts": 1791095699.1311538
       }
     },
     "4G5YDqDvwgwSS3nLPDGDpGuetbG7rZYzNSBb1U4Tqbzi": {
@@ -651,12 +653,13 @@
       "msg_id": 290,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -50.8,
+        "change": -80.9,
         "outcome": "минус",
-        "ts": 1790573383.415945
+        "ts": 1791095699.1311538
       }
     },
     "5GefefPX1mDs6ZJB1apYmz6fCTCiNJpHturZ9bvFpump": {
@@ -1304,14 +1307,50 @@
       "price": 0.0004082,
       "ts": 1791073310.5945997,
       "msg_id": 1243,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -22.4,
+        "outcome": "минус",
+        "ts": 1791095699.1311538
+      }
     },
     "6zzzG49KX5nksnqfogs31dwoMYSHaJXkropKbv1QZVga": {
       "symbol": "Malfoid",
       "price": 0.0001383,
       "ts": 1791075161.3601522,
       "msg_id": 1245,
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 17.6,
+        "outcome": "плюс ✓",
+        "ts": 1791095699.1311538
+      }
+    },
+    "EpEfnZxQyiBXppSKi8sncc8w4corn1UJbF9G91fQpump": {
+      "symbol": "PEPENOM",
+      "price": 0.0003226,
+      "ts": 1791095681.769216,
+      "msg_id": 1343,
+      "done": [],
+      "last": null
+    },
+    "BQJfL1yiHbJQ8AciHLcKxaCbQrWP2ws8oZHHYgbBpump": {
+      "symbol": "CACKLE",
+      "price": 0.0001288,
+      "ts": 1791095687.0321975,
+      "msg_id": 1344,
+      "done": [],
+      "last": null
+    },
+    "HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump": {
+      "symbol": "MISTAKE",
+      "price": 0.01702,
+      "ts": 1791095694.7224076,
+      "msg_id": 1345,
       "done": [],
       "last": null
     }
