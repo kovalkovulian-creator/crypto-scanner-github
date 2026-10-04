@@ -1306,6 +1306,14 @@
       "msg_id": 1243,
       "done": [],
       "last": null
+    },
+    "6zzzG49KX5nksnqfogs31dwoMYSHaJXkropKbv1QZVga": {
+      "symbol": "Malfoid",
+      "price": 0.0001383,
+      "ts": 1791075161.3601522,
+      "msg_id": 1245,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-03"
