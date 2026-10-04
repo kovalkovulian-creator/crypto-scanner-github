@@ -430,12 +430,13 @@
       "ts": 1791055979.5891569,
       "msg_id": 1227,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 11.2,
+        "change": 63.5,
         "outcome": "плюс ✓",
-        "ts": 1791059716.5973856
+        "ts": 1791156208.1205318
       }
     },
     "D1YZZg9dBZ7AbfknZVbaeVLto36eySwoFYEVhZrD4F4n": {
@@ -747,12 +748,13 @@
       "msg_id": 380,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -42.8,
+        "change": -89.9,
         "outcome": "минус",
-        "ts": 1790632246.341706
+        "ts": 1791156208.1205318
       }
     },
     "7BN68PVzqWV6EjK8J8Y6Q1h5C8FFD5ZRZVscXyJDpump": {
@@ -762,12 +764,13 @@
       "msg_id": 381,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 66.2,
-        "outcome": "плюс ✓",
-        "ts": 1790632246.341706
+        "change": -22.2,
+        "outcome": "минус",
+        "ts": 1791156208.1205318
       }
     },
     "82ezhRLKdKwkSC9jkM3js1yf93VbmvLXNMPkBmompump": {
@@ -1271,12 +1274,13 @@
       "ts": 1791055913.4572997,
       "msg_id": 1225,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -3.0,
+        "change": -33.0,
         "outcome": "минус",
-        "ts": 1791059716.5973856
+        "ts": 1791156208.1205318
       }
     },
     "6e8LLHkqCTa4mzGuL1PoUxSfeHmDeceJ3DaJSSUNg937": {
@@ -1285,12 +1289,13 @@
       "ts": 1791055960.481481,
       "msg_id": 1226,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -17.7,
+        "change": -61.0,
         "outcome": "минус",
-        "ts": 1791059716.5973856
+        "ts": 1791156208.1205318
       }
     },
     "DvNcJZTiSMD1RBCtZ2J31mh7s42CVCwrzGapv1Lypump": {
@@ -1299,12 +1304,13 @@
       "ts": 1791055984.5907824,
       "msg_id": 1228,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 1.0,
-        "outcome": "плюс ✓",
-        "ts": 1791059716.5973856
+        "change": -70.0,
+        "outcome": "минус",
+        "ts": 1791156208.1205318
       }
     },
     "5GDX5fJTQns4arM1J94wjxdA8KXFsV5qW46MLFpHpump": {
@@ -1418,6 +1424,22 @@
         "outcome": "минус",
         "ts": 1791114150.8587253
       }
+    },
+    "PrkyDdnE9A99ghintXqgoynRahwz4oevixigZg3pump": {
+      "symbol": "KRYVEX",
+      "price": 0.0003698,
+      "ts": 1791156195.0397851,
+      "msg_id": 1390,
+      "done": [],
+      "last": null
+    },
+    "9Uqpbbpq7EzAtotoQJhRhD9DUnWAQKB2Bzc2ym7J4yzD": {
+      "symbol": "POLYCAT",
+      "price": 0.0001752,
+      "ts": 1791156203.5253966,
+      "msg_id": 1391,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-03"
