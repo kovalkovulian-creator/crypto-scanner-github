@@ -709,12 +709,13 @@
       "msg_id": 300,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -72.9,
-        "outcome": "минус",
-        "ts": 1790608686.9164736
+        "change": -99.1,
+        "outcome": "СКАМ ✖",
+        "ts": 1791106176.910721
       }
     },
     "CC5D6puFmcsnGaJh7kNXeAcRpL2SZzQfoQezvx45uKjt": {
