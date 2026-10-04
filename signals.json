@@ -685,12 +685,13 @@
       "msg_id": 297,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -57.2,
+        "change": -70.8,
         "outcome": "минус",
-        "ts": 1790582527.3458989
+        "ts": 1791100940.9673817
       }
     },
     "udPEzBjbGMzYZbuLtByqLYhc4TEs6EebG8R7fwdpump": {
