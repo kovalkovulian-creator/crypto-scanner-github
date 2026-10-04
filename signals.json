@@ -1297,6 +1297,14 @@
         "outcome": "плюс ✓",
         "ts": 1791059716.5973856
       }
+    },
+    "5GDX5fJTQns4arM1J94wjxdA8KXFsV5qW46MLFpHpump": {
+      "symbol": "OMNI",
+      "price": 0.0004082,
+      "ts": 1791073310.5945997,
+      "msg_id": 1243,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-03"
