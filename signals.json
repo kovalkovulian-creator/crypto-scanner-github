@@ -1255,12 +1255,13 @@
       "ts": 1791022684.5174615,
       "msg_id": 1130,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 10.8,
-        "outcome": "плюс ✓",
-        "ts": 1791026361.2293174
+        "change": -99.7,
+        "outcome": "СКАМ ✖",
+        "ts": 1791109245.2800312
       }
     },
     "GMs6WtQSRoqKcTq2JaGYPE2o55XKD58cJiLDyhUHYnr3": {
@@ -1380,8 +1381,14 @@
       "price": 0.001175,
       "ts": 1791105561.9821122,
       "msg_id": 1359,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -19.6,
+        "outcome": "минус",
+        "ts": 1791109245.2800312
+      }
     },
     "EpFTb2XcGiMyGLykZ9VYmyPWz2AHEwAggqSbwJpypump": {
       "symbol": "Imagine",
