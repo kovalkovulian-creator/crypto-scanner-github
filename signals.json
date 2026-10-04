@@ -1397,6 +1397,14 @@
       "msg_id": 1361,
       "done": [],
       "last": null
+    },
+    "HpSEVrzNGL9ESACpW5rdzQ4VRKpT5Cq1tx3waA8jUyWg": {
+      "symbol": "SPCX",
+      "price": 0.0001044,
+      "ts": 1791110474.898645,
+      "msg_id": 1365,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-03"
