@@ -1319,12 +1319,13 @@
       "ts": 1791073310.5945997,
       "msg_id": 1243,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -22.4,
+        "change": -39.0,
         "outcome": "минус",
-        "ts": 1791095699.1311538
+        "ts": 1791159959.6481543
       }
     },
     "6zzzG49KX5nksnqfogs31dwoMYSHaJXkropKbv1QZVga": {
@@ -1430,16 +1431,28 @@
       "price": 0.0003698,
       "ts": 1791156195.0397851,
       "msg_id": 1390,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -1.3,
+        "outcome": "минус",
+        "ts": 1791159959.6481543
+      }
     },
     "9Uqpbbpq7EzAtotoQJhRhD9DUnWAQKB2Bzc2ym7J4yzD": {
       "symbol": "POLYCAT",
       "price": 0.0001752,
       "ts": 1791156203.5253966,
       "msg_id": 1391,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -13.4,
+        "outcome": "минус",
+        "ts": 1791159959.6481543
+      }
     },
     "6o8QVhkARAchGLeNSfH82juqLzTYNLWzRDfVUi2FUmvM": {
       "symbol": "Army",
