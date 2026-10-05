@@ -781,12 +781,13 @@
       "msg_id": 509,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 45.4,
-        "outcome": "плюс ✓",
-        "ts": 1790696437.8088443
+        "change": -83.1,
+        "outcome": "минус",
+        "ts": 1791213489.0058446
       }
     },
     "7nLukVng5teXze14rum9v57juXLjUp7JJnCveko1pump": {
@@ -796,12 +797,13 @@
       "msg_id": 510,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 4.5,
-        "outcome": "плюс ✓",
-        "ts": 1790696437.8088443
+        "change": -41.4,
+        "outcome": "минус",
+        "ts": 1791213489.0058446
       }
     },
     "7tAnusL3srXjzEriVL86a23KgwDZKXJTZ2ezEUubonk": {
@@ -811,12 +813,13 @@
       "msg_id": 511,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 7.9,
-        "outcome": "плюс ✓",
-        "ts": 1790696437.8088443
+        "change": -19.9,
+        "outcome": "минус",
+        "ts": 1791213489.0058446
       }
     },
     "EGTFrUPym8JnEMAddZjuhBkcSGEGTM75qymxUZgTpump": {
