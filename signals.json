@@ -1425,12 +1425,13 @@
       "ts": 1791110474.898645,
       "msg_id": 1365,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -49.1,
+        "change": -72.3,
         "outcome": "минус",
-        "ts": 1791114150.8587253
+        "ts": 1791197166.1912217
       }
     },
     "PrkyDdnE9A99ghintXqgoynRahwz4oevixigZg3pump": {
