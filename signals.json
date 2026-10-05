@@ -669,12 +669,13 @@
       "ts": 1791105247.9087245,
       "msg_id": 1358,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 2.7,
-        "outcome": "плюс ✓",
-        "ts": 1791108937.3000016
+        "change": -0.3,
+        "outcome": "без изменений",
+        "ts": 1791195920.0248308
       }
     },
     "Hd6U8SfLWCZCREYrT5XfwK2Nzat5QB3B8pbBvST4Tg5X": {
@@ -1349,12 +1350,13 @@
       "ts": 1791095681.769216,
       "msg_id": 1343,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 0.3,
-        "outcome": "без изменений",
-        "ts": 1791099403.3372593
+        "change": -2.0,
+        "outcome": "минус",
+        "ts": 1791195920.0248308
       }
     },
     "BQJfL1yiHbJQ8AciHLcKxaCbQrWP2ws8oZHHYgbBpump": {
@@ -1363,12 +1365,13 @@
       "ts": 1791095687.0321975,
       "msg_id": 1344,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 1.3,
-        "outcome": "плюс ✓",
-        "ts": 1791099403.3372593
+        "change": -3.0,
+        "outcome": "минус",
+        "ts": 1791195920.0248308
       }
     },
     "HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump": {
@@ -1377,12 +1380,13 @@
       "ts": 1791095694.7224076,
       "msg_id": 1345,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -15.7,
+        "change": -75.0,
         "outcome": "минус",
-        "ts": 1791099403.3372593
+        "ts": 1791195920.0248308
       }
     },
     "2GYMvnSv37djKecDshE8bYe2sRypcETeAF8G9h6un4J2": {
@@ -1391,12 +1395,13 @@
       "ts": 1791105561.9821122,
       "msg_id": 1359,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -19.6,
+        "change": -71.9,
         "outcome": "минус",
-        "ts": 1791109245.2800312
+        "ts": 1791195920.0248308
       }
     },
     "EpFTb2XcGiMyGLykZ9VYmyPWz2AHEwAggqSbwJpypump": {
@@ -1405,12 +1410,13 @@
       "ts": 1791108319.390411,
       "msg_id": 1361,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 0.6,
-        "outcome": "без изменений",
-        "ts": 1791112006.1094046
+        "change": 27.2,
+        "outcome": "плюс ✓",
+        "ts": 1791195920.0248308
       }
     },
     "HpSEVrzNGL9ESACpW5rdzQ4VRKpT5Cq1tx3waA8jUyWg": {
@@ -1468,6 +1474,14 @@
         "outcome": "плюс ✓",
         "ts": 1791161505.324455
       }
+    },
+    "2RSsw9tntE1RmoiPnNFiu93EzQu2eLnCAzvZiqMSoatH": {
+      "symbol": "OATH",
+      "price": 0.0001343,
+      "ts": 1791195910.6111484,
+      "msg_id": 1514,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-03"
