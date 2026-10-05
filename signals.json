@@ -1503,6 +1503,14 @@
         "outcome": "без изменений",
         "ts": 1791199915.6073282
       }
+    },
+    "7sGdNQSvUGpahh6qyXB3g5gsdK9FAzZM299KyCXspump": {
+      "symbol": "https",
+      "price": 0.0001427,
+      "ts": 1791204531.7082205,
+      "msg_id": 1525,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-03"
