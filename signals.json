@@ -956,12 +956,13 @@
       "msg_id": 603,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 0.7,
-        "outcome": "без изменений",
-        "ts": 1790816420.456745
+        "change": 5.2,
+        "outcome": "плюс ✓",
+        "ts": 1791319937.4623928
       }
     },
     "DeqsPTYwvsNjkf5G8zDxziUnFPp55nQZA4vrNM2apump": {
