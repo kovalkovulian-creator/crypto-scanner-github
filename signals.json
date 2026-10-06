@@ -1522,12 +1522,13 @@
       "ts": 1791204531.7082205,
       "msg_id": 1525,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 2.2,
+        "change": 33.9,
         "outcome": "плюс ✓",
-        "ts": 1791208230.365789
+        "ts": 1791291003.274973
       }
     },
     "GyWkSn2ah7dqLyPeZAjEZmfxuU2H4nwfGvgJhfYDVegn": {
