@@ -1527,6 +1527,14 @@
         "outcome": "плюс ✓",
         "ts": 1791208230.365789
       }
+    },
+    "GyWkSn2ah7dqLyPeZAjEZmfxuU2H4nwfGvgJhfYDVegn": {
+      "symbol": "bul",
+      "price": 0.0001729,
+      "ts": 1791257420.217238,
+      "msg_id": 1543,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-03"
