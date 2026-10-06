@@ -1551,8 +1551,14 @@
       "price": 0.0001205,
       "ts": 1791291321.7209718,
       "msg_id": 1648,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -14.5,
+        "outcome": "минус",
+        "ts": 1791295011.9855494
+      }
     },
     "HbPDWSqu8hpVMX6gMjwMDGe5rVgicWo3Qh3Jaojypump": {
       "symbol": "Frank",
