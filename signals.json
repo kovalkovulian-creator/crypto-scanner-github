@@ -924,12 +924,13 @@
       "msg_id": 591,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -37.4,
+        "change": -86.4,
         "outcome": "минус",
-        "ts": 1790782970.7458253
+        "ts": 1791305012.007987
       }
     },
     "68fn2tLABKmS7VA9Eaz3n6RfoXM3iBWUACckT9dwpump": {
@@ -939,12 +940,13 @@
       "msg_id": 592,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -12.2,
+        "change": -53.8,
         "outcome": "минус",
-        "ts": 1790782970.7458253
+        "ts": 1791305012.007987
       }
     },
     "HeC2xWqGT9gPfdvaMuqxPo2bUQ1XgY5wRtnrwTEHpump": {
@@ -1573,6 +1575,14 @@
         "outcome": "плюс ✓",
         "ts": 1791295942.4283288
       }
+    },
+    "BffwFrxLQ82QxuHwjb1hLQ3MdSs6YVfDkRa2cyiadH5y": {
+      "symbol": "CHATON",
+      "price": 0.0001503,
+      "ts": 1791305001.3640997,
+      "msg_id": 1653,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-03"
