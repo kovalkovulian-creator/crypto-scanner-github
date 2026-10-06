@@ -1544,6 +1544,14 @@
         "outcome": "минус",
         "ts": 1791281167.826598
       }
+    },
+    "HpkDyHK7avch8TS3raZ6mifBjZoUHRgvWwgzRQL1RXFR": {
+      "symbol": "AC",
+      "price": 0.0001205,
+      "ts": 1791291321.7209718,
+      "msg_id": 1648,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-03"
