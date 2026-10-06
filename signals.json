@@ -908,12 +908,13 @@
       "msg_id": 590,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -7.6,
+        "change": -17.7,
         "outcome": "минус",
-        "ts": 1790776212.9335353
+        "ts": 1791294089.2218819
       }
     },
     "EU5WWxWBjDzfs3pvb6N7yuc6gBfo5Ltao6qfdXDiH2U3": {
