@@ -877,12 +877,13 @@
       "msg_id": 526,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 1.3,
-        "outcome": "плюс ✓",
-        "ts": 1790736329.200899
+        "change": -35.6,
+        "outcome": "минус",
+        "ts": 1791251549.375868
       }
     },
     "6zkvGacejiBiF3tzY1kjdQCoMBo4WvH6MeavQq8hqTQq": {
