@@ -1641,6 +1641,14 @@
         "outcome": "минус",
         "ts": 1791364384.0739985
       }
+    },
+    "CscZaq5twomhUkvCY8Jdd1tge32L4Yj9FbkFFEZQpump": {
+      "symbol": "PLAGUE",
+      "price": 0.0006829,
+      "ts": 1791394444.392665,
+      "msg_id": 1894,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-06"
