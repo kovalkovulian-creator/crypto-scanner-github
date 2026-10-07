@@ -1591,12 +1591,13 @@
       "ts": 1791305001.3640997,
       "msg_id": 1653,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -4.9,
+        "change": -36.7,
         "outcome": "минус",
-        "ts": 1791308752.1731796
+        "ts": 1791391656.4907632
       }
     },
     "CHsC7xqDLrTy8NMizomPUx3sNKxJzXGDaswc9Zs9DeLn": {
