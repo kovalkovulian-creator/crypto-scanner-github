@@ -1655,6 +1655,14 @@
         "outcome": "минус",
         "ts": 1791398167.4047515
       }
+    },
+    "H74CYmXgMkYHYuSRsZt6RJb4NYp2u72Vw8BS5huApump": {
+      "symbol": "LMAO!",
+      "price": 0.002387,
+      "ts": 1791402849.8711243,
+      "msg_id": 1897,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-07"
