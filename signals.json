@@ -1661,6 +1661,20 @@
       "price": 0.002387,
       "ts": 1791402849.8711243,
       "msg_id": 1897,
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -4.4,
+        "outcome": "минус",
+        "ts": 1791407214.763329
+      }
+    },
+    "7ypCq2CJ4fnbtS3z2B1W1UT2he5E3u7Md6Gy1ri7uGrQ": {
+      "symbol": "ANT",
+      "price": 0.001546,
+      "ts": 1791407212.7570627,
+      "msg_id": 1898,
       "done": [],
       "last": null
     }
