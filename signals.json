@@ -1606,12 +1606,13 @@
       "ts": 1791324632.725848,
       "msg_id": 1659,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -0.4,
-        "outcome": "без изменений",
-        "ts": 1791345137.772884
+        "change": -5.9,
+        "outcome": "минус",
+        "ts": 1791411055.692611
       }
     },
     "45VHsie7CwFfPKWCw28PCdZdJWMA5Y6k56wDam9Hpump": {
@@ -1675,8 +1676,14 @@
       "price": 0.001546,
       "ts": 1791407212.7570627,
       "msg_id": 1898,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 24.3,
+        "outcome": "плюс ✓",
+        "ts": 1791411055.692611
+      }
     },
     "CWKbSd7jwMXXexP3pbwLAWMzr4HXAXTvt4R9pk2Vyyyc": {
       "symbol": "AnyPS5",
