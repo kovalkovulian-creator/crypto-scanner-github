@@ -972,12 +972,13 @@
       "msg_id": 669,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 0.6,
-        "outcome": "без изменений",
-        "ts": 1790822845.441341
+        "change": -14.7,
+        "outcome": "минус",
+        "ts": 1791345137.772884
       }
     },
     "8StnEDgfxfvxpCUUMH9ChXaqAkGGtxvnfxCAYHYnPXja": {
@@ -1541,12 +1542,13 @@
       "ts": 1791257420.217238,
       "msg_id": 1543,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -4.3,
+        "change": -30.0,
         "outcome": "минус",
-        "ts": 1791281167.826598
+        "ts": 1791345137.772884
       }
     },
     "HpkDyHK7avch8TS3raZ6mifBjZoUHRgvWwgzRQL1RXFR": {
@@ -1596,6 +1598,20 @@
       "price": 0.0008638,
       "ts": 1791324632.725848,
       "msg_id": 1659,
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -0.4,
+        "outcome": "без изменений",
+        "ts": 1791345137.772884
+      }
+    },
+    "45VHsie7CwFfPKWCw28PCdZdJWMA5Y6k56wDam9Hpump": {
+      "symbol": "RARINU",
+      "price": 0.001535,
+      "ts": 1791345133.305564,
+      "msg_id": 1768,
       "done": [],
       "last": null
     }
