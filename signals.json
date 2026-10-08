@@ -1716,6 +1716,14 @@
         "outcome": "минус",
         "ts": 1791453969.4969845
       }
+    },
+    "hL6d7KCdsnfFsdFr98vf7GydhVUT1WUxAo1Woqgpump": {
+      "symbol": "SOUL",
+      "price": 0.0005514,
+      "ts": 1791466495.5561042,
+      "msg_id": 1925,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-07"
