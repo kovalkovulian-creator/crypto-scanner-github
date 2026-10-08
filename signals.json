@@ -1733,6 +1733,14 @@
         "outcome": "СКАМ ✖",
         "ts": 1791476583.8865318
       }
+    },
+    "HtTYHz1Kf3rrQo6AqDLmss7gq5WrkWAaXn3tupUZbonk": {
+      "symbol": "KORI",
+      "price": 0.002715,
+      "ts": 1791484336.683721,
+      "msg_id": 1935,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-08"
