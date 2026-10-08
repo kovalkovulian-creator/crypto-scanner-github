@@ -1700,12 +1700,13 @@
       "ts": 1791407836.0593212,
       "msg_id": 1900,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -15.4,
+        "change": -64.2,
         "outcome": "минус",
-        "ts": 1791411692.6456282
+        "ts": 1791494287.6312587
       }
     },
     "DZaQRdmPHNaqNsMVqRU8P4q5f2mErab4GipPghowFvaz": {
