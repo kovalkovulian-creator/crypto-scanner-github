@@ -792,19 +792,11 @@
     },
     "7nLukVng5teXze14rum9v57juXLjUp7JJnCveko1pump": {
       "symbol": "Martians",
-      "price": 0.0002533,
-      "ts": 1790608672.7721756,
-      "msg_id": 510,
-      "done": [
-        1,
-        24,
-        168
-      ],
-      "last": {
-        "change": -41.4,
-        "outcome": "минус",
-        "ts": 1791213489.0058446
-      }
+      "price": 0.0001327,
+      "ts": 1791476581.822158,
+      "msg_id": 1926,
+      "done": [],
+      "last": null
     },
     "7tAnusL3srXjzEriVL86a23KgwDZKXJTZ2ezEUubonk": {
       "symbol": "AI",
@@ -1084,12 +1076,13 @@
       "msg_id": 793,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -34.6,
+        "change": -2.1,
         "outcome": "минус",
-        "ts": 1790976323.9023995
+        "ts": 1791476583.8865318
       }
     },
     "GfkfESc5A4EkxCGWsymNY4ZfkCDdvtB7ajCybLfYL1Qq": {
@@ -1099,12 +1092,13 @@
       "msg_id": 794,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -10.8,
+        "change": -19.2,
         "outcome": "минус",
-        "ts": 1790976323.9023995
+        "ts": 1791476583.8865318
       }
     },
     "Edpcd9aYh6BVRKV5hYrgnEuJ3MHAFcdnHtSL9yvopump": {
@@ -1114,12 +1108,13 @@
       "msg_id": 795,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 17.7,
-        "outcome": "плюс ✓",
-        "ts": 1790976323.9023995
+        "change": -72.6,
+        "outcome": "минус",
+        "ts": 1791476583.8865318
       }
     },
     "8oMvxgcBJtDGNSc8kogCEEFxSvvi7x6jHRfSWaiWpump": {
@@ -1722,8 +1717,14 @@
       "price": 0.0005514,
       "ts": 1791466495.5561042,
       "msg_id": 1925,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -99.4,
+        "outcome": "СКАМ ✖",
+        "ts": 1791476583.8865318
+      }
     }
   },
   "last_summary": "2026-10-07"
