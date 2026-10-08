@@ -1750,6 +1750,14 @@
         "outcome": "без изменений",
         "ts": 1791488073.060229
       }
+    },
+    "XBCXFg55oefBMGkj8GV7Wkh8WAfs3TWeXTZvA5QmqZb": {
+      "symbol": "XBC",
+      "price": 0.002136,
+      "ts": 1791494913.3474855,
+      "msg_id": 1940,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-08"
