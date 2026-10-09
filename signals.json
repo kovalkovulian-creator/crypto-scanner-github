@@ -1733,12 +1733,13 @@
       "ts": 1791466495.5561042,
       "msg_id": 1925,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
         "change": -99.4,
         "outcome": "СКАМ ✖",
-        "ts": 1791476583.8865318
+        "ts": 1791552918.4092765
       }
     },
     "HtTYHz1Kf3rrQo6AqDLmss7gq5WrkWAaXn3tupUZbonk": {
