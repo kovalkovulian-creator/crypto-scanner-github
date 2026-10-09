@@ -966,19 +966,11 @@
     },
     "DeqsPTYwvsNjkf5G8zDxziUnFPp55nQZA4vrNM2apump": {
       "symbol": "QNT",
-      "price": 0.0001694,
-      "ts": 1790736314.860732,
-      "msg_id": 669,
-      "done": [
-        1,
-        24,
-        168
-      ],
-      "last": {
-        "change": -14.7,
-        "outcome": "минус",
-        "ts": 1791345137.772884
-      }
+      "price": 0.0001433,
+      "ts": 1791577248.76544,
+      "msg_id": 1969,
+      "done": [],
+      "last": null
     },
     "8StnEDgfxfvxpCUUMH9ChXaqAkGGtxvnfxCAYHYnPXja": {
       "symbol": "FLOPPY",
