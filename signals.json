@@ -1178,12 +1178,13 @@
       "msg_id": 967,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 469.9,
+        "change": 1531.9,
         "outcome": "плюс ✓",
-        "ts": 1791030650.3669462
+        "ts": 1791548919.7773063
       }
     },
     "3iUTyNYW6xKv5kZUjtbrEDTsuJTrSVwvB3bQtxkLpump": {
