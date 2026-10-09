@@ -969,8 +969,14 @@
       "price": 0.0001433,
       "ts": 1791577248.76544,
       "msg_id": 1969,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -6.2,
+        "outcome": "минус",
+        "ts": 1791580980.9888978
+      }
     },
     "8StnEDgfxfvxpCUUMH9ChXaqAkGGtxvnfxCAYHYnPXja": {
       "symbol": "FLOPPY",
