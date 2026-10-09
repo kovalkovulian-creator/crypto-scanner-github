@@ -1194,12 +1194,13 @@
       "msg_id": 975,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -3.9,
+        "change": -55.0,
         "outcome": "минус",
-        "ts": 1791034943.6917593
+        "ts": 1791553226.8730507
       }
     },
     "rizo34MUwbCBqpSTSfnEktdWB4CTByqqYh8zBxL3WAR": {
