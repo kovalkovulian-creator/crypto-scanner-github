@@ -1799,6 +1799,14 @@
         "outcome": "плюс ✓",
         "ts": 1791567275.2466934
       }
+    },
+    "AyYNfPtftg2zDP4ZbgcoQMggQtwLh4zpfVVmUJs2thto": {
+      "symbol": "Tilcayo",
+      "price": 0.0002638,
+      "ts": 1791567595.1567082,
+      "msg_id": 1964,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-08"
