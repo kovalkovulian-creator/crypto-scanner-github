@@ -1717,12 +1717,13 @@
       "ts": 1791450254.178659,
       "msg_id": 1919,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -18.8,
+        "change": -31.1,
         "outcome": "минус",
-        "ts": 1791453969.4969845
+        "ts": 1791536657.5037034
       }
     },
     "hL6d7KCdsnfFsdFr98vf7GydhVUT1WUxAo1Woqgpump": {
