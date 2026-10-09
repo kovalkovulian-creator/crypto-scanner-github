@@ -1777,8 +1777,14 @@
       "price": 0.0001165,
       "ts": 1791561989.6929803,
       "msg_id": 1959,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -0.9,
+        "outcome": "без изменений",
+        "ts": 1791565730.3058932
+      }
     },
     "AhuPBbDHo2B77qehebV6AzsULve7ghpV41tovqhgpump": {
       "symbol": "GNODE",
