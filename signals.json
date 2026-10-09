@@ -1814,6 +1814,14 @@
         "outcome": "без изменений",
         "ts": 1791571307.5428793
       }
+    },
+    "FQTs7tHw8vM9tUCU6PuRB3r6VK835cvMWZBJBHiBXKoq": {
+      "symbol": "Tardigrade",
+      "price": 0.0002987,
+      "ts": 1791575061.4184637,
+      "msg_id": 1968,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-09"
