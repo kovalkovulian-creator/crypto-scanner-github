@@ -1846,6 +1846,14 @@
         "outcome": "минус",
         "ts": 1791605735.3779664
       }
+    },
+    "6hTLdzZaaCjmqtn7RtaEMQsCbXT5Pg8q76tRViEGpump": {
+      "symbol": "ABU",
+      "price": 0.0003151,
+      "ts": 1791612754.2961578,
+      "msg_id": 2106,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-09"
