@@ -1870,8 +1870,14 @@
       "price": 0.0001833,
       "ts": 1791656321.4389627,
       "msg_id": 2236,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 102.0,
+        "outcome": "плюс ✓",
+        "ts": 1791660043.9210773
+      }
     },
     "HwJyyniKKDRLXxjRSzyLtpvxzqecqrhrbcSbKRm7STNK": {
       "symbol": "SWOLF",
