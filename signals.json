@@ -1864,6 +1864,14 @@
         "outcome": "минус",
         "ts": 1791616415.4757278
       }
+    },
+    "85Mo19cmRzg89Vz1niSw7jRZtrtfvCrkEwFSW1CBaQcg": {
+      "symbol": "SECRETFROG",
+      "price": 0.0001833,
+      "ts": 1791656321.4389627,
+      "msg_id": 2236,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-10"
