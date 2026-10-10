@@ -1814,12 +1814,13 @@
       "ts": 1791567595.1567082,
       "msg_id": 1964,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -0.8,
-        "outcome": "без изменений",
-        "ts": 1791571307.5428793
+        "change": 2.4,
+        "outcome": "плюс ✓",
+        "ts": 1791654160.035994
       }
     },
     "FQTs7tHw8vM9tUCU6PuRB3r6VK835cvMWZBJBHiBXKoq": {
