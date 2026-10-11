@@ -1224,19 +1224,11 @@
     },
     "9AvytnUKsLxPxFHFqS6VLxaxt5p6BhYNr53SD2Chpump": {
       "symbol": "67",
-      "price": 0.002686,
-      "ts": 1790976317.2440066,
-      "msg_id": 1016,
-      "done": [
-        1,
-        24,
-        168
-      ],
-      "last": {
-        "change": -28.1,
-        "outcome": "минус",
-        "ts": 1791581293.8590603
-      }
+      "price": 0.00237,
+      "ts": 1791696831.2586496,
+      "msg_id": 2379,
+      "done": [],
+      "last": null
     },
     "148fJTrVybPyQqzTxNzfLQq5sxVkMfmV2cLpAyVnNCX3": {
       "symbol": "ZAZA",
