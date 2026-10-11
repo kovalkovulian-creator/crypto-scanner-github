@@ -1227,8 +1227,14 @@
       "price": 0.00237,
       "ts": 1791696831.2586496,
       "msg_id": 2379,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 4.8,
+        "outcome": "плюс ✓",
+        "ts": 1791700503.1345215
+      }
     },
     "148fJTrVybPyQqzTxNzfLQq5sxVkMfmV2cLpAyVnNCX3": {
       "symbol": "ZAZA",
@@ -1380,12 +1386,13 @@
       "msg_id": 1343,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -2.0,
+        "change": -23.3,
         "outcome": "минус",
-        "ts": 1791195920.0248308
+        "ts": 1791700503.1345215
       }
     },
     "BQJfL1yiHbJQ8AciHLcKxaCbQrWP2ws8oZHHYgbBpump": {
@@ -1395,12 +1402,13 @@
       "msg_id": 1344,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -3.0,
+        "change": -21.4,
         "outcome": "минус",
-        "ts": 1791195920.0248308
+        "ts": 1791700503.1345215
       }
     },
     "HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump": {
@@ -1410,12 +1418,13 @@
       "msg_id": 1345,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -75.0,
+        "change": -88.0,
         "outcome": "минус",
-        "ts": 1791195920.0248308
+        "ts": 1791700503.1345215
       }
     },
     "2GYMvnSv37djKecDshE8bYe2sRypcETeAF8G9h6un4J2": {
