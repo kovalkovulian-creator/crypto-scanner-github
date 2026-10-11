@@ -353,12 +353,13 @@
       "msg_id": 47,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -98.6,
+        "change": -98.8,
         "outcome": "СКАМ ✖",
-        "ts": 1790446967.3833613
+        "ts": 1791681793.9191284
       }
     },
     "3V43dHnk3kkU3w8RnxEsmbJcHQppGjTJ3Mni3owDpump": {
@@ -972,12 +973,13 @@
       "ts": 1791577248.76544,
       "msg_id": 1969,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -6.2,
-        "outcome": "минус",
-        "ts": 1791580980.9888978
+        "change": 25.0,
+        "outcome": "плюс ✓",
+        "ts": 1791681793.9191284
       }
     },
     "8StnEDgfxfvxpCUUMH9ChXaqAkGGtxvnfxCAYHYnPXja": {
@@ -1354,12 +1356,13 @@
       "msg_id": 1243,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -39.0,
+        "change": -17.5,
         "outcome": "минус",
-        "ts": 1791159959.6481543
+        "ts": 1791681793.9191284
       }
     },
     "6zzzG49KX5nksnqfogs31dwoMYSHaJXkropKbv1QZVga": {
@@ -1369,12 +1372,13 @@
       "msg_id": 1245,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 74.0,
+        "change": 206.9,
         "outcome": "плюс ✓",
-        "ts": 1791161816.5179293
+        "ts": 1791681793.9191284
       }
     },
     "EpEfnZxQyiBXppSKi8sncc8w4corn1UJbF9G91fQpump": {
@@ -1833,12 +1837,13 @@
       "ts": 1791575061.4184637,
       "msg_id": 1968,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -48.7,
-        "outcome": "минус",
-        "ts": 1791578811.6227732
+        "change": -90.7,
+        "outcome": "СКАМ ✖",
+        "ts": 1791681793.9191284
       }
     },
     "8TiMkgvsrat9tM2esko8zVTt99LZLpefUM4SnZaziXaQ": {
@@ -1888,8 +1893,14 @@
       "price": 0.001652,
       "ts": 1791658498.8724976,
       "msg_id": 2237,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -27.1,
+        "outcome": "минус",
+        "ts": 1791681793.9191284
+      }
     }
   },
   "last_summary": "2026-10-10"
