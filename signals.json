@@ -673,12 +673,13 @@
       "msg_id": 1358,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -0.3,
-        "outcome": "без изменений",
-        "ts": 1791195920.0248308
+        "change": -18.3,
+        "outcome": "минус",
+        "ts": 1791721631.699518
       }
     },
     "Hd6U8SfLWCZCREYrT5XfwK2Nzat5QB3B8pbBvST4Tg5X": {
@@ -1434,12 +1435,13 @@
       "msg_id": 1359,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -71.9,
+        "change": -72.9,
         "outcome": "минус",
-        "ts": 1791195920.0248308
+        "ts": 1791721631.699518
       }
     },
     "EpFTb2XcGiMyGLykZ9VYmyPWz2AHEwAggqSbwJpypump": {
@@ -1449,12 +1451,13 @@
       "msg_id": 1361,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 27.2,
+        "change": 7.5,
         "outcome": "плюс ✓",
-        "ts": 1791195920.0248308
+        "ts": 1791721631.699518
       }
     },
     "HpSEVrzNGL9ESACpW5rdzQ4VRKpT5Cq1tx3waA8jUyWg": {
@@ -1464,12 +1467,13 @@
       "msg_id": 1365,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -72.3,
+        "change": -82.0,
         "outcome": "минус",
-        "ts": 1791197166.1912217
+        "ts": 1791721631.699518
       }
     },
     "PrkyDdnE9A99ghintXqgoynRahwz4oevixigZg3pump": {
@@ -1904,6 +1908,14 @@
         "outcome": "минус",
         "ts": 1791681793.9191284
       }
+    },
+    "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn": {
+      "symbol": "EGGU",
+      "price": 0.000222,
+      "ts": 1791721627.222416,
+      "msg_id": 2516,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-10"
