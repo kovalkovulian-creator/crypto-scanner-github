@@ -1922,6 +1922,14 @@
         "outcome": "минус",
         "ts": 1791725323.5425274
       }
+    },
+    "8k4sBtEeK4pf26noKqApv8NBTnuSJcbdwpKYknk5PbAA": {
+      "symbol": "CALI",
+      "price": 0.0006742,
+      "ts": 1791730274.6471019,
+      "msg_id": 2522,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-10"
