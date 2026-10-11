@@ -1515,12 +1515,13 @@
       "msg_id": 1398,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -40.2,
+        "change": -88.8,
         "outcome": "минус",
-        "ts": 1791244322.4556744
+        "ts": 1791762607.9355743
       }
     },
     "2RSsw9tntE1RmoiPnNFiu93EzQu2eLnCAzvZiqMSoatH": {
