@@ -1229,12 +1229,13 @@
       "ts": 1791696831.2586496,
       "msg_id": 2379,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 4.8,
+        "change": 2.7,
         "outcome": "плюс ✓",
-        "ts": 1791700503.1345215
+        "ts": 1791801735.4826748
       }
     },
     "148fJTrVybPyQqzTxNzfLQq5sxVkMfmV2cLpAyVnNCX3": {
@@ -1531,12 +1532,13 @@
       "msg_id": 1514,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -69.4,
+        "change": -23.3,
         "outcome": "минус",
-        "ts": 1791282398.3492649
+        "ts": 1791801735.4826748
       }
     },
     "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump": {
@@ -1546,12 +1548,13 @@
       "msg_id": 1521,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 67.3,
+        "change": 21.9,
         "outcome": "плюс ✓",
-        "ts": 1791282705.0373943
+        "ts": 1791801735.4826748
       }
     },
     "7sGdNQSvUGpahh6qyXB3g5gsdK9FAzZM299KyCXspump": {
