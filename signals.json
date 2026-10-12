@@ -1941,6 +1941,14 @@
         "outcome": "без изменений",
         "ts": 1791733965.8474784
       }
+    },
+    "9Twd5vXAPYSWwuPTVPgDmdxvVHsUQwijC4a1QvYZpump": {
+      "symbol": "GOIF",
+      "price": 0.00916,
+      "ts": 1791771203.6783001,
+      "msg_id": 2658,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-10"
