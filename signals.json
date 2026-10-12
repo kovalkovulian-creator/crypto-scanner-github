@@ -1961,7 +1961,15 @@
         "outcome": "плюс ✓",
         "ts": 1791774893.8211675
       }
+    },
+    "DZLM712LtQQmT9Cejm8rxWTiH3CSSQacKkzS9CFepump": {
+      "symbol": "USDF",
+      "price": 0.04912,
+      "ts": 1791828098.0515244,
+      "msg_id": 2675,
+      "done": [],
+      "last": null
     }
   },
-  "last_summary": "2026-10-10"
+  "last_summary": "2026-10-12"
 }
