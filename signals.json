@@ -1969,6 +1969,14 @@
       "msg_id": 2675,
       "done": [],
       "last": null
+    },
+    "hKyXZVKmrBDPhKKhdSaaGf1qrFwUkwjqrdzRc63farm": {
+      "symbol": "FARM",
+      "price": 5.471e-05,
+      "ts": 1791831516.4341042,
+      "msg_id": 2677,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-12"
