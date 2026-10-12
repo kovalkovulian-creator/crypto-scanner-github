@@ -1923,12 +1923,13 @@
       "ts": 1791721627.222416,
       "msg_id": 2516,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -2.3,
+        "change": -13.5,
         "outcome": "минус",
-        "ts": 1791725323.5425274
+        "ts": 1791808173.6879613
       }
     },
     "8k4sBtEeK4pf26noKqApv8NBTnuSJcbdwpKYknk5PbAA": {
