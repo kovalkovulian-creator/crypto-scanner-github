@@ -1967,8 +1967,14 @@
       "price": 0.04912,
       "ts": 1791828098.0515244,
       "msg_id": 2675,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 0.0,
+        "outcome": "без изменений",
+        "ts": 1791831842.4400642
+      }
     },
     "hKyXZVKmrBDPhKKhdSaaGf1qrFwUkwjqrdzRc63farm": {
       "symbol": "FARM",
