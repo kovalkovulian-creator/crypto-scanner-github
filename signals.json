@@ -1939,12 +1939,13 @@
       "ts": 1791730274.6471019,
       "msg_id": 2522,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 1.0,
-        "outcome": "без изменений",
-        "ts": 1791733965.8474784
+        "change": -9.9,
+        "outcome": "минус",
+        "ts": 1791816818.7550206
       }
     },
     "9Twd5vXAPYSWwuPTVPgDmdxvVHsUQwijC4a1QvYZpump": {
