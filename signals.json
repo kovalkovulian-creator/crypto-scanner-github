@@ -2048,6 +2048,14 @@
         "outcome": "минус",
         "ts": 1791912047.6475883
       }
+    },
+    "HazuLV2Cr8m5KjXPx9LPyYFEbsXDxfRT73qSVQAWpump": {
+      "symbol": "PUMPURR",
+      "price": 0.0002115,
+      "ts": 1791920139.338267,
+      "msg_id": 2700,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-13"
