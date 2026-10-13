@@ -1541,19 +1541,11 @@
     },
     "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump": {
       "symbol": "swordcat",
-      "price": 0.002626,
-      "ts": 1791196239.5513787,
-      "msg_id": 1521,
-      "done": [
-        1,
-        24,
-        168
-      ],
-      "last": {
-        "change": 21.9,
-        "outcome": "плюс ✓",
-        "ts": 1791801735.4826748
-      }
+      "price": 0.003262,
+      "ts": 1791868482.0485952,
+      "msg_id": 2686,
+      "done": [],
+      "last": null
     },
     "7sGdNQSvUGpahh6qyXB3g5gsdK9FAzZM299KyCXspump": {
       "symbol": "https",
