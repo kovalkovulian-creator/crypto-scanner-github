@@ -2001,6 +2001,14 @@
         "outcome": "плюс ✓",
         "ts": 1791855870.99429
       }
+    },
+    "HCkhfdDNF2dqMxxtL51AzgWU26MBNkUkEzGAHtqkpump": {
+      "symbol": "BatCat",
+      "price": 0.0002669,
+      "ts": 1791895100.7787461,
+      "msg_id": 2688,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-12"
