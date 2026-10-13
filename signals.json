@@ -1608,12 +1608,13 @@
       "msg_id": 1649,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 13.8,
+        "change": 74.5,
         "outcome": "плюс ✓",
-        "ts": 1791390091.0826895
+        "ts": 1791906780.9785945
       }
     },
     "BffwFrxLQ82QxuHwjb1hLQ3MdSs6YVfDkRa2cyiadH5y": {
@@ -2008,6 +2009,20 @@
       "price": 0.0002669,
       "ts": 1791895100.7787461,
       "msg_id": 2688,
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -2.2,
+        "outcome": "минус",
+        "ts": 1791906780.9785945
+      }
+    },
+    "DzMwArmdzPqcqgvyqAmTxy79XdA9NwK9mMteqWLJpump": {
+      "symbol": "Normie",
+      "price": 0.00083,
+      "ts": 1791906773.921353,
+      "msg_id": 2690,
       "done": [],
       "last": null
     }
