@@ -1989,6 +1989,14 @@
         "outcome": "минус",
         "ts": 1791835277.2000105
       }
+    },
+    "7jNwX4Me9zGEjmWY7zARDG2LYjVs1WXD6DZ1JvSfpump": {
+      "symbol": "HUMPH",
+      "price": 0.003347,
+      "ts": 1791852184.7029123,
+      "msg_id": 2680,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-12"
