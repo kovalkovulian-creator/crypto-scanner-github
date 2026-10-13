@@ -1969,12 +1969,13 @@
       "ts": 1791828098.0515244,
       "msg_id": 2675,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 0.0,
-        "outcome": "без изменений",
-        "ts": 1791831842.4400642
+        "change": 7.4,
+        "outcome": "плюс ✓",
+        "ts": 1791914541.6856687
       }
     },
     "hKyXZVKmrBDPhKKhdSaaGf1qrFwUkwjqrdzRc63farm": {
@@ -2048,5 +2049,5 @@
       }
     }
   },
-  "last_summary": "2026-10-12"
+  "last_summary": "2026-10-13"
 }
