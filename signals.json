@@ -668,19 +668,11 @@
     },
     "5GefefPX1mDs6ZJB1apYmz6fCTCiNJpHturZ9bvFpump": {
       "symbol": "Pumpoween",
-      "price": 0.001019,
-      "ts": 1791105247.9087245,
-      "msg_id": 1358,
-      "done": [
-        1,
-        24,
-        168
-      ],
-      "last": {
-        "change": -18.3,
-        "outcome": "минус",
-        "ts": 1791721631.699518
-      }
+      "price": 0.0009453,
+      "ts": 1791855562.4506252,
+      "msg_id": 2681,
+      "done": [],
+      "last": null
     },
     "Hd6U8SfLWCZCREYrT5XfwK2Nzat5QB3B8pbBvST4Tg5X": {
       "symbol": "mog",
