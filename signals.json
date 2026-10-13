@@ -1544,8 +1544,14 @@
       "price": 0.003262,
       "ts": 1791868482.0485952,
       "msg_id": 2686,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 14.1,
+        "outcome": "плюс ✓",
+        "ts": 1791877052.5185344
+      }
     },
     "7sGdNQSvUGpahh6qyXB3g5gsdK9FAzZM299KyCXspump": {
       "symbol": "https",
