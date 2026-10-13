@@ -671,8 +671,14 @@
       "price": 0.0009453,
       "ts": 1791855562.4506252,
       "msg_id": 2681,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 2.1,
+        "outcome": "плюс ✓",
+        "ts": 1791859273.0220842
+      }
     },
     "Hd6U8SfLWCZCREYrT5XfwK2Nzat5QB3B8pbBvST4Tg5X": {
       "symbol": "mog",
