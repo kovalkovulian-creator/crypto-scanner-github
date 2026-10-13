@@ -2024,8 +2024,14 @@
       "price": 0.00083,
       "ts": 1791906773.921353,
       "msg_id": 2690,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -6.8,
+        "outcome": "минус",
+        "ts": 1791910508.042
+      }
     },
     "9XKzy4KahcZaGJPJtz1PtqGPB3CiseoBrx7TcQhEpump": {
       "symbol": "GOMO",
