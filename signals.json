@@ -2048,12 +2048,13 @@
       "ts": 1791908338.3714187,
       "msg_id": 2693,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -7.6,
+        "change": -8.8,
         "outcome": "минус",
-        "ts": 1791912047.6475883
+        "ts": 1791994747.472785
       }
     },
     "HazuLV2Cr8m5KjXPx9LPyYFEbsXDxfRT73qSVQAWpump": {
