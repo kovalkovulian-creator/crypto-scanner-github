@@ -895,12 +895,13 @@
       "msg_id": 589,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 1.7,
-        "outcome": "плюс ✓",
-        "ts": 1790776212.9335353
+        "change": -100.0,
+        "outcome": "СКАМ ✖",
+        "ts": 1791986943.006526
       }
     },
     "7MCgYMzq3fov6oERdtTMAYbN2U9LZrrSYS1MBhjixZFr": {
@@ -1414,19 +1415,11 @@
     },
     "HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump": {
       "symbol": "MISTAKE",
-      "price": 0.01702,
-      "ts": 1791095694.7224076,
-      "msg_id": 1345,
-      "done": [
-        1,
-        24,
-        168
-      ],
-      "last": {
-        "change": -88.0,
-        "outcome": "минус",
-        "ts": 1791700503.1345215
-      }
+      "price": 0.002728,
+      "ts": 1791986940.9992049,
+      "msg_id": 2856,
+      "done": [],
+      "last": null
     },
     "2GYMvnSv37djKecDshE8bYe2sRypcETeAF8G9h6un4J2": {
       "symbol": "SpaceXSI",
@@ -2019,12 +2012,13 @@
       "ts": 1791895100.7787461,
       "msg_id": 2688,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -2.2,
-        "outcome": "минус",
-        "ts": 1791906780.9785945
+        "change": 0.3,
+        "outcome": "без изменений",
+        "ts": 1791986943.006526
       }
     },
     "DzMwArmdzPqcqgvyqAmTxy79XdA9NwK9mMteqWLJpump": {
