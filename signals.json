@@ -672,12 +672,13 @@
       "ts": 1791855562.4506252,
       "msg_id": 2681,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 2.1,
+        "change": 10.8,
         "outcome": "плюс ✓",
-        "ts": 1791859273.0220842
+        "ts": 1791946955.6599455
       }
     },
     "Hd6U8SfLWCZCREYrT5XfwK2Nzat5QB3B8pbBvST4Tg5X": {
@@ -1640,12 +1641,13 @@
       "msg_id": 1659,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -5.9,
+        "change": -54.9,
         "outcome": "минус",
-        "ts": 1791411055.692611
+        "ts": 1791946955.6599455
       }
     },
     "45VHsie7CwFfPKWCw28PCdZdJWMA5Y6k56wDam9Hpump": {
@@ -1999,12 +2001,13 @@
       "ts": 1791852184.7029123,
       "msg_id": 2680,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 22.4,
-        "outcome": "плюс ✓",
-        "ts": 1791855870.99429
+        "change": -90.7,
+        "outcome": "СКАМ ✖",
+        "ts": 1791946955.6599455
       }
     },
     "HCkhfdDNF2dqMxxtL51AzgWU26MBNkUkEzGAHtqkpump": {
@@ -2062,6 +2065,14 @@
         "outcome": "плюс ✓",
         "ts": 1791923952.0304356
       }
+    },
+    "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump": {
+      "symbol": "SI276",
+      "price": 0.0009679,
+      "ts": 1791946951.3188148,
+      "msg_id": 2712,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-13"
