@@ -1418,8 +1418,14 @@
       "price": 0.002728,
       "ts": 1791986940.9992049,
       "msg_id": 2856,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -7.4,
+        "outcome": "минус",
+        "ts": 1791990676.4237854
+      }
     },
     "2GYMvnSv37djKecDshE8bYe2sRypcETeAF8G9h6un4J2": {
       "symbol": "SpaceXSI",
