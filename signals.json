@@ -2082,6 +2082,14 @@
         "outcome": "плюс ✓",
         "ts": 1791950631.4980266
       }
+    },
+    "Ek6mmnhJXUhv5jDZ57aBaw5dzjCYSJnbDTW1EMKBpump": {
+      "symbol": "$GEAR",
+      "price": 0.0007661,
+      "ts": 1791992542.1791594,
+      "msg_id": 2860,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-13"
