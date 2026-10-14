@@ -1674,12 +1674,13 @@
       "msg_id": 1773,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -63.9,
+        "change": -71.1,
         "outcome": "минус",
-        "ts": 1791450279.447844
+        "ts": 1791965622.3487763
       }
     },
     "CscZaq5twomhUkvCY8Jdd1tge32L4Yj9FbkFFEZQpump": {
