@@ -1657,12 +1657,13 @@
       "msg_id": 1768,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
         "change": -99.8,
         "outcome": "СКАМ ✖",
-        "ts": 1791450279.447844
+        "ts": 1791950016.4787993
       }
     },
     "H9pPKejchJ9LCWpb1P8p4BmrjzCFARUmA7XtJK4pVhCZ": {
