@@ -2082,12 +2082,13 @@
       "ts": 1791946951.3188148,
       "msg_id": 2712,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 2.2,
+        "change": 27.0,
         "outcome": "плюс ✓",
-        "ts": 1791950631.4980266
+        "ts": 1792033430.1868582
       }
     },
     "Ek6mmnhJXUhv5jDZ57aBaw5dzjCYSJnbDTW1EMKBpump": {
