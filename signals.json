@@ -1352,19 +1352,11 @@
     },
     "5GDX5fJTQns4arM1J94wjxdA8KXFsV5qW46MLFpHpump": {
       "symbol": "OMNI",
-      "price": 0.0004082,
-      "ts": 1791073310.5945997,
-      "msg_id": 1243,
-      "done": [
-        1,
-        24,
-        168
-      ],
-      "last": {
-        "change": -17.5,
-        "outcome": "минус",
-        "ts": 1791681793.9191284
-      }
+      "price": 0.00069,
+      "ts": 1792074056.573666,
+      "msg_id": 3026,
+      "done": [],
+      "last": null
     },
     "6zzzG49KX5nksnqfogs31dwoMYSHaJXkropKbv1QZVga": {
       "symbol": "Malfoid",
