@@ -1785,12 +1785,13 @@
       "msg_id": 1935,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -0.6,
-        "outcome": "без изменений",
-        "ts": 1791570996.5640616
+        "change": -3.0,
+        "outcome": "минус",
+        "ts": 1792107029.3493874
       }
     },
     "XBCXFg55oefBMGkj8GV7Wkh8WAfs3TWeXTZvA5QmqZb": {
@@ -1800,12 +1801,13 @@
       "msg_id": 1940,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 3.3,
-        "outcome": "плюс ✓",
-        "ts": 1791581603.382692
+        "change": -99.9,
+        "outcome": "СКАМ ✖",
+        "ts": 1792107029.3493874
       }
     },
     "26uqr1EAd5o9czpp3CxWGRPBgzya2733WC7faQX4mqNA": {
@@ -2149,6 +2151,14 @@
         "outcome": "минус",
         "ts": 1792070652.8014457
       }
+    },
+    "F4GpAFr6vrxU3Y887F3XWkXRgybCVjZNk63m72f6pump": {
+      "symbol": "TrumpCoin",
+      "price": 4.696e-05,
+      "ts": 1792107017.366012,
+      "msg_id": 3168,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-14"
