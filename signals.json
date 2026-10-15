@@ -2109,16 +2109,28 @@
       "price": 0.001639,
       "ts": 1792026930.7050943,
       "msg_id": 3004,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 13.1,
+        "outcome": "плюс ✓",
+        "ts": 1792030668.5442219
+      }
     },
     "7fumw7GYTHZJJxkKJ8sSh1CqTdHmB234vX3xsKjepump": {
       "symbol": "VEILTRUMP",
       "price": 0.0007957,
       "ts": 1792026942.7692273,
       "msg_id": 3005,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -6.9,
+        "outcome": "минус",
+        "ts": 1792030668.5442219
+      }
     }
   },
   "last_summary": "2026-10-14"
