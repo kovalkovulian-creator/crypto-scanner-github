@@ -1705,12 +1705,13 @@
       "msg_id": 1897,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -5.7,
+        "change": -30.7,
         "outcome": "минус",
-        "ts": 1791489302.448028
+        "ts": 1792026947.198564
       }
     },
     "7ypCq2CJ4fnbtS3z2B1W1UT2he5E3u7Md6Gy1ri7uGrQ": {
@@ -1720,12 +1721,13 @@
       "msg_id": 1898,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -12.7,
-        "outcome": "минус",
-        "ts": 1791493660.6313176
+        "change": 6.3,
+        "outcome": "плюс ✓",
+        "ts": 1792026947.198564
       }
     },
     "CWKbSd7jwMXXexP3pbwLAWMzr4HXAXTvt4R9pk2Vyyyc": {
@@ -1735,12 +1737,13 @@
       "msg_id": 1900,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -64.2,
+        "change": -87.7,
         "outcome": "минус",
-        "ts": 1791494287.6312587
+        "ts": 1792026947.198564
       }
     },
     "DZaQRdmPHNaqNsMVqRU8P4q5f2mErab4GipPghowFvaz": {
@@ -2100,6 +2103,22 @@
         "outcome": "плюс ✓",
         "ts": 1791996297.1515052
       }
+    },
+    "9a98oQHtxfqmr4EyzsP6wfw69uYAK3JbUeVEuNW1pump": {
+      "symbol": "STREAM",
+      "price": 0.001639,
+      "ts": 1792026930.7050943,
+      "msg_id": 3004,
+      "done": [],
+      "last": null
+    },
+    "7fumw7GYTHZJJxkKJ8sSh1CqTdHmB234vX3xsKjepump": {
+      "symbol": "VEILTRUMP",
+      "price": 0.0007957,
+      "ts": 1792026942.7692273,
+      "msg_id": 3005,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-14"
