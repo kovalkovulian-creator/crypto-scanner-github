@@ -2098,12 +2098,13 @@
       "ts": 1791992542.1791594,
       "msg_id": 2860,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 198.4,
-        "outcome": "плюс ✓",
-        "ts": 1791996297.1515052
+        "change": -99.7,
+        "outcome": "СКАМ ✖",
+        "ts": 1792078954.3313217
       }
     },
     "9a98oQHtxfqmr4EyzsP6wfw69uYAK3JbUeVEuNW1pump": {
