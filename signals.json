@@ -103,12 +103,13 @@
       "msg_id": 15,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -98.8,
+        "change": -99.0,
         "outcome": "СКАМ ✖",
-        "ts": 1790446967.3833613
+        "ts": 1792066986.8316615
       }
     },
     "BjTykKGejK3y5ixdCkZYLE8yKmwPmYLvB3PkpRL3pump": {
@@ -1753,12 +1754,13 @@
       "msg_id": 1919,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -31.1,
-        "outcome": "минус",
-        "ts": 1791536657.5037034
+        "change": -94.8,
+        "outcome": "СКАМ ✖",
+        "ts": 1792066986.8316615
       }
     },
     "hL6d7KCdsnfFsdFr98vf7GydhVUT1WUxAo1Woqgpump": {
@@ -2132,6 +2134,14 @@
         "outcome": "минус",
         "ts": 1792030668.5442219
       }
+    },
+    "4qH8A5GxvRMZgpRFjXASc6U9HAoEzKeUqxY2dPB7pump": {
+      "symbol": "Groklet",
+      "price": 0.001184,
+      "ts": 1792066975.5241961,
+      "msg_id": 3021,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-14"
