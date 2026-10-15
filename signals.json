@@ -1355,8 +1355,14 @@
       "price": 0.00069,
       "ts": 1792074056.573666,
       "msg_id": 3026,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 37.7,
+        "outcome": "плюс ✓",
+        "ts": 1792077730.857061
+      }
     },
     "6zzzG49KX5nksnqfogs31dwoMYSHaJXkropKbv1QZVga": {
       "symbol": "Malfoid",
