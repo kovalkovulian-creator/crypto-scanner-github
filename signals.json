@@ -1355,12 +1355,13 @@
       "ts": 1792074056.573666,
       "msg_id": 3026,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 37.7,
-        "outcome": "плюс ✓",
-        "ts": 1792077730.857061
+        "change": -24.1,
+        "outcome": "минус",
+        "ts": 1792160533.9063783
       }
     },
     "6zzzG49KX5nksnqfogs31dwoMYSHaJXkropKbv1QZVga": {
