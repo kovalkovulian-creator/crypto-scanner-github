@@ -2116,12 +2116,13 @@
       "ts": 1792026930.7050943,
       "msg_id": 3004,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 13.1,
+        "change": 1293.5,
         "outcome": "плюс ✓",
-        "ts": 1792030668.5442219
+        "ts": 1792113522.7965436
       }
     },
     "7fumw7GYTHZJJxkKJ8sSh1CqTdHmB234vX3xsKjepump": {
@@ -2130,12 +2131,13 @@
       "ts": 1792026942.7692273,
       "msg_id": 3005,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -6.9,
-        "outcome": "минус",
-        "ts": 1792030668.5442219
+        "change": 76.1,
+        "outcome": "плюс ✓",
+        "ts": 1792113522.7965436
       }
     },
     "4qH8A5GxvRMZgpRFjXASc6U9HAoEzKeUqxY2dPB7pump": {
