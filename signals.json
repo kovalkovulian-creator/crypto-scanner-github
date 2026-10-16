@@ -2193,6 +2193,14 @@
         "outcome": "плюс ✓",
         "ts": 1792150407.870388
       }
+    },
+    "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump": {
+      "symbol": "DINKY",
+      "price": 0.00019,
+      "ts": 1792150719.436379,
+      "msg_id": 3316,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-14"
