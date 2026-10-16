@@ -1576,8 +1576,14 @@
       "price": 0.0001163,
       "ts": 1792186698.8103747,
       "msg_id": 3466,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -8.9,
+        "outcome": "минус",
+        "ts": 1792190423.8641927
+      }
     },
     "HpkDyHK7avch8TS3raZ6mifBjZoUHRgvWwgzRQL1RXFR": {
       "symbol": "AC",
