@@ -1242,19 +1242,11 @@
     },
     "148fJTrVybPyQqzTxNzfLQq5sxVkMfmV2cLpAyVnNCX3": {
       "symbol": "ZAZA",
-      "price": 0.000108,
-      "ts": 1790980686.0151823,
-      "msg_id": 1032,
-      "done": [
-        1,
-        24,
-        168
-      ],
-      "last": {
-        "change": 24.2,
-        "outcome": "плюс ✓",
-        "ts": 1791602057.116859
-      }
+      "price": 0.0001493,
+      "ts": 1792146723.5948448,
+      "msg_id": 3312,
+      "done": [],
+      "last": null
     },
     "8f5m7Y8po64WviteV1LKnN43M8Z8gUvDnNWRkDK1aSXo": {
       "symbol": "LLAMA",
@@ -2173,6 +2165,20 @@
       "price": 0.0001378,
       "ts": 1792125235.227181,
       "msg_id": 3174,
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 52.1,
+        "outcome": "плюс ✓",
+        "ts": 1792146732.9406435
+      }
+    },
+    "ArenDYANqFNkp8ZqAXt69vT5Dz7WD4zDfSpVw6oPpump": {
+      "symbol": "Cartridge",
+      "price": 8.974e-05,
+      "ts": 1792146718.427261,
+      "msg_id": 3311,
       "done": [],
       "last": null
     }
