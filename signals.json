@@ -2163,12 +2163,13 @@
       "ts": 1792107017.366012,
       "msg_id": 3168,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 7.9,
-        "outcome": "плюс ✓",
-        "ts": 1792110739.0947685
+        "change": -21.1,
+        "outcome": "минус",
+        "ts": 1792193513.6669576
       }
     },
     "6hjaMcRPvB4DEGpHqgHxmgipb2vrGQWMewZBAVSLpump": {
