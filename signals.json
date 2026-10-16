@@ -2167,6 +2167,14 @@
         "outcome": "плюс ✓",
         "ts": 1792110739.0947685
       }
+    },
+    "6hjaMcRPvB4DEGpHqgHxmgipb2vrGQWMewZBAVSLpump": {
+      "symbol": "STATE?",
+      "price": 0.0001378,
+      "ts": 1792125235.227181,
+      "msg_id": 3174,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-14"
