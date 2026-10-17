@@ -1879,12 +1879,13 @@
       "msg_id": 2101,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -48.2,
+        "change": -86.1,
         "outcome": "минус",
-        "ts": 1791688562.5308342
+        "ts": 1792226378.6699944
       }
     },
     "6hTLdzZaaCjmqtn7RtaEMQsCbXT5Pg8q76tRViEGpump": {
@@ -1894,12 +1895,13 @@
       "msg_id": 2106,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 15.0,
-        "outcome": "плюс ✓",
-        "ts": 1791699274.1998239
+        "change": -44.2,
+        "outcome": "минус",
+        "ts": 1792226378.6699944
       }
     },
     "85Mo19cmRzg89Vz1niSw7jRZtrtfvCrkEwFSW1CBaQcg": {
@@ -2178,12 +2180,13 @@
       "ts": 1792125235.227181,
       "msg_id": 3174,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 52.1,
+        "change": 25.8,
         "outcome": "плюс ✓",
-        "ts": 1792146732.9406435
+        "ts": 1792226378.6699944
       }
     },
     "ArenDYANqFNkp8ZqAXt69vT5Dz7WD4zDfSpVw6oPpump": {
@@ -2233,6 +2236,20 @@
       "price": 0.000145,
       "ts": 1792205523.545633,
       "msg_id": 3474,
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -28.6,
+        "outcome": "минус",
+        "ts": 1792226378.6699944
+      }
+    },
+    "B2GESkSErPjuCq6n4LcaJP5v2z1kJnw3xHVZnop2sZx": {
+      "symbol": "ELON",
+      "price": 0.0008131,
+      "ts": 1792226364.4322248,
+      "msg_id": 3614,
       "done": [],
       "last": null
     }
