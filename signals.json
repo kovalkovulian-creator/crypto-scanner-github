@@ -1295,12 +1295,13 @@
       "msg_id": 1130,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
         "change": -99.7,
         "outcome": "СКАМ ✖",
-        "ts": 1791109245.2800312
+        "ts": 1792245594.4402337
       }
     },
     "GMs6WtQSRoqKcTq2JaGYPE2o55XKD58cJiLDyhUHYnr3": {
