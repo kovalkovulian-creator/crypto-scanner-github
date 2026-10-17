@@ -2211,12 +2211,13 @@
       "ts": 1792150719.436379,
       "msg_id": 3316,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -1.7,
+        "change": -3.9,
         "outcome": "минус",
-        "ts": 1792154391.5528502
+        "ts": 1792237367.3693519
       }
     },
     "EgP1f5J9LDn1fuTMfrrgT5ZRMiLBitYdkmDs818BS44k": {
