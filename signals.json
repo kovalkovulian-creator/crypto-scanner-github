@@ -2285,16 +2285,28 @@
       "price": 0.5955,
       "ts": 1792266312.249545,
       "msg_id": 3772,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 5.1,
+        "outcome": "плюс ✓",
+        "ts": 1792270041.6620588
+      }
     },
     "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump": {
       "symbol": "CBUCKS",
       "price": 0.0007285,
       "ts": 1792266329.6428652,
       "msg_id": 3773,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 5.8,
+        "outcome": "плюс ✓",
+        "ts": 1792270041.6620588
+      }
     }
   },
   "last_summary": "2026-10-17"
