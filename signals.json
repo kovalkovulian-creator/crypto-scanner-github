@@ -2227,6 +2227,14 @@
         "outcome": "минус",
         "ts": 1792161773.060138
       }
+    },
+    "9KDhovVA2kdjngkFooqEn5FoKkuZeDMYiQtVk7Lbm9up": {
+      "symbol": "Glow",
+      "price": 0.000145,
+      "ts": 1792205523.545633,
+      "msg_id": 3474,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-14"
