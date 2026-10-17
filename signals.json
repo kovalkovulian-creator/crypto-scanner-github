@@ -1913,12 +1913,13 @@
       "msg_id": 2236,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 351.2,
-        "outcome": "плюс ✓",
-        "ts": 1791761679.5549896
+        "change": -88.4,
+        "outcome": "минус",
+        "ts": 1792266351.202038
       }
     },
     "HwJyyniKKDRLXxjRSzyLtpvxzqecqrhrbcSbKRm7STNK": {
@@ -1928,12 +1929,13 @@
       "msg_id": 2237,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -0.8,
-        "outcome": "без изменений",
-        "ts": 1791761679.5549896
+        "change": -84.8,
+        "outcome": "минус",
+        "ts": 1792266351.202038
       }
     },
     "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn": {
@@ -2277,7 +2279,23 @@
         "outcome": "минус",
         "ts": 1792233714.3502333
       }
+    },
+    "3rF2NSivMQcHgKJfSQST2SHESmsHr6vHbzfkVgG2pump": {
+      "symbol": "XTO",
+      "price": 0.5955,
+      "ts": 1792266312.249545,
+      "msg_id": 3772,
+      "done": [],
+      "last": null
+    },
+    "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump": {
+      "symbol": "CBUCKS",
+      "price": 0.0007285,
+      "ts": 1792266329.6428652,
+      "msg_id": 3773,
+      "done": [],
+      "last": null
     }
   },
-  "last_summary": "2026-10-14"
+  "last_summary": "2026-10-17"
 }
