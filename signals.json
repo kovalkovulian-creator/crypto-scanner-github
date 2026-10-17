@@ -2250,6 +2250,20 @@
       "price": 0.0008131,
       "ts": 1792226364.4322248,
       "msg_id": 3614,
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 6.4,
+        "outcome": "плюс ✓",
+        "ts": 1792230055.8864791
+      }
+    },
+    "7Xgc5RacHtGzfhw2HukUBk5V986yBbvshr7rrCoopump": {
+      "symbol": "DRMR",
+      "price": 0.0006461,
+      "ts": 1792230046.2437532,
+      "msg_id": 3619,
       "done": [],
       "last": null
     }
