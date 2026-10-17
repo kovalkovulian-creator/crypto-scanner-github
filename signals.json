@@ -2308,6 +2308,14 @@
         "outcome": "плюс ✓",
         "ts": 1792270041.6620588
       }
+    },
+    "5x6QQvpRpd1PsFTTTJe6sJFFSqrA21H1j3GZLmo2pump": {
+      "symbol": "FTR",
+      "price": 0.000937,
+      "ts": 1792280196.0467536,
+      "msg_id": 3780,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-17"
