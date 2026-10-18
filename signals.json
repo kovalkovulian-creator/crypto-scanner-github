@@ -2261,12 +2261,13 @@
       "ts": 1792226364.4322248,
       "msg_id": 3614,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 6.4,
+        "change": 204.9,
         "outcome": "плюс ✓",
-        "ts": 1792230055.8864791
+        "ts": 1792312779.871146
       }
     },
     "7Xgc5RacHtGzfhw2HukUBk5V986yBbvshr7rrCoopump": {
