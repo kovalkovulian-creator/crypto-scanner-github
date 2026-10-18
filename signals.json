@@ -1878,19 +1878,11 @@
     },
     "8TiMkgvsrat9tM2esko8zVTt99LZLpefUM4SnZaziXaQ": {
       "symbol": "QI",
-      "price": 0.004378,
-      "ts": 1791602027.6603687,
-      "msg_id": 2101,
-      "done": [
-        1,
-        24,
-        168
-      ],
-      "last": {
-        "change": -86.1,
-        "outcome": "минус",
-        "ts": 1792226378.6699944
-      }
+      "price": 0.0003372,
+      "ts": 1792346182.8054252,
+      "msg_id": 3964,
+      "done": [],
+      "last": null
     },
     "6hTLdzZaaCjmqtn7RtaEMQsCbXT5Pg8q76tRViEGpump": {
       "symbol": "ABU",
@@ -1947,12 +1939,13 @@
       "msg_id": 2516,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -13.5,
+        "change": -17.2,
         "outcome": "минус",
-        "ts": 1791808173.6879613
+        "ts": 1792346197.3152034
       }
     },
     "8k4sBtEeK4pf26noKqApv8NBTnuSJcbdwpKYknk5PbAA": {
@@ -1962,12 +1955,13 @@
       "msg_id": 2522,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -9.9,
+        "change": -66.7,
         "outcome": "минус",
-        "ts": 1791816818.7550206
+        "ts": 1792346197.3152034
       }
     },
     "9Twd5vXAPYSWwuPTVPgDmdxvVHsUQwijC4a1QvYZpump": {
@@ -2340,6 +2334,14 @@
         "outcome": "плюс ✓",
         "ts": 1792320990.8503032
       }
+    },
+    "JAKVR89eBd9XYc2y5Qadw7jB4F37KtX2c8Auy7CmPPZJ": {
+      "symbol": "AODF",
+      "price": 0.001977,
+      "ts": 1792346121.076778,
+      "msg_id": 3963,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-17"
