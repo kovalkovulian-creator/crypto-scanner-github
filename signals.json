@@ -2276,12 +2276,13 @@
       "ts": 1792230046.2437532,
       "msg_id": 3619,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -12.8,
-        "outcome": "минус",
-        "ts": 1792233714.3502333
+        "change": 0.1,
+        "outcome": "без изменений",
+        "ts": 1792316729.7415488
       }
     },
     "3rF2NSivMQcHgKJfSQST2SHESmsHr6vHbzfkVgG2pump": {
