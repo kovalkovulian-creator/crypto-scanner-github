@@ -1881,8 +1881,14 @@
       "price": 0.0003372,
       "ts": 1792346182.8054252,
       "msg_id": 3964,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -2.6,
+        "outcome": "минус",
+        "ts": 1792349890.796902
+      }
     },
     "6hTLdzZaaCjmqtn7RtaEMQsCbXT5Pg8q76tRViEGpump": {
       "symbol": "ABU",
@@ -2340,8 +2346,14 @@
       "price": 0.001977,
       "ts": 1792346121.076778,
       "msg_id": 3963,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 0.3,
+        "outcome": "без изменений",
+        "ts": 1792349890.796902
+      }
     }
   },
   "last_summary": "2026-10-18"
