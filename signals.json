@@ -2291,12 +2291,13 @@
       "ts": 1792266312.249545,
       "msg_id": 3772,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 5.1,
+        "change": 67.9,
         "outcome": "плюс ✓",
-        "ts": 1792270041.6620588
+        "ts": 1792352973.1532776
       }
     },
     "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump": {
@@ -2305,12 +2306,13 @@
       "ts": 1792266329.6428652,
       "msg_id": 3773,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 5.8,
+        "change": 25.3,
         "outcome": "плюс ✓",
-        "ts": 1792270041.6620588
+        "ts": 1792352973.1532776
       }
     },
     "5x6QQvpRpd1PsFTTTJe6sJFFSqrA21H1j3GZLmo2pump": {
