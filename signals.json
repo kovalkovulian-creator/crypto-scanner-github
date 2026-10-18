@@ -2326,6 +2326,14 @@
         "outcome": "плюс ✓",
         "ts": 1792283848.077837
       }
+    },
+    "3zxtzoumrXqaqS2CDRjnbVEbf1tb12d5fWwMfa2Npump": {
+      "symbol": "CATSZN",
+      "price": 0.0007621,
+      "ts": 1792317342.7605214,
+      "msg_id": 3813,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-17"
