@@ -2399,6 +2399,14 @@
         "outcome": "СКАМ ✖",
         "ts": 1792395402.0803957
       }
+    },
+    "2gVNeu8dP7XiLoaWfUvUJXUM5AdXY8418aft8xhUpump": {
+      "symbol": "GTA6",
+      "price": 0.0001487,
+      "ts": 1792429439.9576442,
+      "msg_id": 4155,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-18"
