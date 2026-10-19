@@ -2008,12 +2008,13 @@
       "msg_id": 2677,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -18.2,
+        "change": -85.3,
         "outcome": "минус",
-        "ts": 1791917966.325662
+        "ts": 1792436595.0167186
       }
     },
     "7jNwX4Me9zGEjmWY7zARDG2LYjVs1WXD6DZ1JvSfpump": {
