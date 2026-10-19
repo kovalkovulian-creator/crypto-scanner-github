@@ -2350,12 +2350,13 @@
       "ts": 1792346121.076778,
       "msg_id": 3963,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 0.3,
+        "change": 0.2,
         "outcome": "без изменений",
-        "ts": 1792349890.796902
+        "ts": 1792432551.875742
       }
     },
     "DJSpZY2iYin95TMJG8rahRWYKy18TaGTcmVHnDea8S7K": {
@@ -2405,6 +2406,14 @@
       "price": 0.0001487,
       "ts": 1792429439.9576442,
       "msg_id": 4155,
+      "done": [],
+      "last": null
+    },
+    "BdXfLfcbDE8YvpbvvmmGTduqcDesaQVUm5xLxgUc2S5t": {
+      "symbol": "texcat",
+      "price": 0.0004675,
+      "ts": 1792432549.8686078,
+      "msg_id": 4156,
       "done": [],
       "last": null
     }
