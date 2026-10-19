@@ -1940,19 +1940,11 @@
     },
     "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn": {
       "symbol": "EGGU",
-      "price": 0.000222,
-      "ts": 1791721627.222416,
-      "msg_id": 2516,
-      "done": [
-        1,
-        24,
-        168
-      ],
-      "last": {
-        "change": -17.2,
-        "outcome": "минус",
-        "ts": 1792346197.3152034
-      }
+      "price": 0.0001885,
+      "ts": 1792404884.5752075,
+      "msg_id": 4003,
+      "done": [],
+      "last": null
     },
     "8k4sBtEeK4pf26noKqApv8NBTnuSJcbdwpKYknk5PbAA": {
       "symbol": "CALI",
