@@ -1882,12 +1882,13 @@
       "ts": 1792346182.8054252,
       "msg_id": 3964,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -2.6,
+        "change": -11.4,
         "outcome": "минус",
-        "ts": 1792349890.796902
+        "ts": 1792432862.2456346
       }
     },
     "6hTLdzZaaCjmqtn7RtaEMQsCbXT5Pg8q76tRViEGpump": {
@@ -2418,5 +2419,5 @@
       "last": null
     }
   },
-  "last_summary": "2026-10-18"
+  "last_summary": "2026-10-19"
 }
