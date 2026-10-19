@@ -2378,8 +2378,14 @@
       "price": 0.001936,
       "ts": 1792389605.2304676,
       "msg_id": 3997,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 0.8,
+        "outcome": "без изменений",
+        "ts": 1792393275.8176224
+      }
     },
     "3rSfVix6BUoPS8n3fdG1pKdcziRNtxkjpgjJzoUZpump": {
       "symbol": "VP",
