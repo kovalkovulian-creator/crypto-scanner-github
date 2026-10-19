@@ -1992,12 +1992,13 @@
       "msg_id": 2675,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 7.4,
-        "outcome": "плюс ✓",
-        "ts": 1791914541.6856687
+        "change": -100.0,
+        "outcome": "СКАМ ✖",
+        "ts": 1792433173.1499083
       }
     },
     "hKyXZVKmrBDPhKKhdSaaGf1qrFwUkwjqrdzRc63farm": {
@@ -2407,8 +2408,14 @@
       "price": 0.0001487,
       "ts": 1792429439.9576442,
       "msg_id": 4155,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 24.2,
+        "outcome": "плюс ✓",
+        "ts": 1792433173.1499083
+      }
     },
     "BdXfLfcbDE8YvpbvvmmGTduqcDesaQVUm5xLxgUc2S5t": {
       "symbol": "texcat",
