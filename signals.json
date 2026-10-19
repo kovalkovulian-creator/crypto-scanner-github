@@ -2364,6 +2364,20 @@
       "price": 0.0002156,
       "ts": 1792385909.2635193,
       "msg_id": 3994,
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 1.8,
+        "outcome": "плюс ✓",
+        "ts": 1792389610.3375332
+      }
+    },
+    "3PGHr2nVLKv9C9B17TqRsTcV8dwMvaTsRSDJCHKYpump": {
+      "symbol": "USDF",
+      "price": 0.001936,
+      "ts": 1792389605.2304676,
+      "msg_id": 3997,
       "done": [],
       "last": null
     }
