@@ -1943,8 +1943,14 @@
       "price": 0.0001885,
       "ts": 1792404884.5752075,
       "msg_id": 4003,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 41.9,
+        "outcome": "плюс ✓",
+        "ts": 1792425719.074234
+      }
     },
     "8k4sBtEeK4pf26noKqApv8NBTnuSJcbdwpKYknk5PbAA": {
       "symbol": "CALI",
