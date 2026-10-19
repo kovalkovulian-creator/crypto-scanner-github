@@ -2337,12 +2337,13 @@
       "ts": 1792317342.7605214,
       "msg_id": 3813,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 29.6,
-        "outcome": "плюс ✓",
-        "ts": 1792320990.8503032
+        "change": -99.7,
+        "outcome": "СКАМ ✖",
+        "ts": 1792403971.703723
       }
     },
     "JAKVR89eBd9XYc2y5Qadw7jB4F37KtX2c8Auy7CmPPZJ": {
