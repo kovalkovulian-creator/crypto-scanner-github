@@ -1977,12 +1977,13 @@
       "msg_id": 2658,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 30.6,
-        "outcome": "плюс ✓",
-        "ts": 1791857723.8005226
+        "change": -100.0,
+        "outcome": "СКАМ ✖",
+        "ts": 1792385911.2716026
       }
     },
     "DZLM712LtQQmT9Cejm8rxWTiH3CSSQacKkzS9CFepump": {
@@ -2321,12 +2322,13 @@
       "ts": 1792280196.0467536,
       "msg_id": 3780,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 22.1,
-        "outcome": "плюс ✓",
-        "ts": 1792283848.077837
+        "change": -0.7,
+        "outcome": "без изменений",
+        "ts": 1792385911.2716026
       }
     },
     "3zxtzoumrXqaqS2CDRjnbVEbf1tb12d5fWwMfa2Npump": {
@@ -2356,6 +2358,14 @@
         "outcome": "без изменений",
         "ts": 1792349890.796902
       }
+    },
+    "DJSpZY2iYin95TMJG8rahRWYKy18TaGTcmVHnDea8S7K": {
+      "symbol": "HYDRA",
+      "price": 0.0002156,
+      "ts": 1792385909.2635193,
+      "msg_id": 3994,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-18"
