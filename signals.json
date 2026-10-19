@@ -2431,6 +2431,14 @@
         "outcome": "минус",
         "ts": 1792436286.975044
       }
+    },
+    "FrEL1gFK7LPKaeQvzNWzeXuzYAUfNsdrLLwNZbjGDUi2": {
+      "symbol": "NPC",
+      "price": 0.000954,
+      "ts": 1792442524.0621972,
+      "msg_id": 4164,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-19"
