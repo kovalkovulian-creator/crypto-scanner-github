@@ -1851,8 +1851,14 @@
       "price": 0.0001515,
       "ts": 1792514644.8782687,
       "msg_id": 4505,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 3.9,
+        "outcome": "плюс ✓",
+        "ts": 1792518354.5710685
+      }
     },
     "FQTs7tHw8vM9tUCU6PuRB3r6VK835cvMWZBJBHiBXKoq": {
       "symbol": "Tardigrade",
