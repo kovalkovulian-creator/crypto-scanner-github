@@ -2370,12 +2370,13 @@
       "ts": 1792385909.2635193,
       "msg_id": 3994,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 1.8,
-        "outcome": "плюс ✓",
-        "ts": 1792389610.3375332
+        "change": -8.8,
+        "outcome": "минус",
+        "ts": 1792472495.416048
       }
     },
     "3PGHr2nVLKv9C9B17TqRsTcV8dwMvaTsRSDJCHKYpump": {
