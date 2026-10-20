@@ -1848,19 +1848,11 @@
     },
     "AyYNfPtftg2zDP4ZbgcoQMggQtwLh4zpfVVmUJs2thto": {
       "symbol": "Tilcayo",
-      "price": 0.0002638,
-      "ts": 1791567595.1567082,
-      "msg_id": 1964,
-      "done": [
-        1,
-        24,
-        168
-      ],
-      "last": {
-        "change": -44.5,
-        "outcome": "минус",
-        "ts": 1792186708.161759
-      }
+      "price": 0.0001515,
+      "ts": 1792514644.8782687,
+      "msg_id": 4505,
+      "done": [],
+      "last": null
     },
     "FQTs7tHw8vM9tUCU6PuRB3r6VK835cvMWZBJBHiBXKoq": {
       "symbol": "Tardigrade",
