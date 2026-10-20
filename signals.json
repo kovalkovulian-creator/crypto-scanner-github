@@ -2473,16 +2473,28 @@
       "price": 0.0003139,
       "ts": 1792505684.2364326,
       "msg_id": 4495,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -41.7,
+        "outcome": "минус",
+        "ts": 1792509384.8942997
+      }
     },
     "EaxAUcXxNnVwcqm2BBocbows7D1XVY2Q63V38NEypump": {
       "symbol": "GTA 6 Coin",
       "price": 0.001103,
       "ts": 1792505689.8340044,
       "msg_id": 4496,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 2.8,
+        "outcome": "плюс ✓",
+        "ts": 1792509384.8942997
+      }
     },
     "A9E2AopuG56LWYiXsvGLLTcLjUjQ539PY6k5Fhfepump": {
       "symbol": "KABUTO",
