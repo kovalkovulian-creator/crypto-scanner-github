@@ -1947,12 +1947,13 @@
       "ts": 1792404884.5752075,
       "msg_id": 4003,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 41.9,
+        "change": 49.1,
         "outcome": "плюс ✓",
-        "ts": 1792425719.074234
+        "ts": 1792505691.842213
       }
     },
     "8k4sBtEeK4pf26noKqApv8NBTnuSJcbdwpKYknk5PbAA": {
@@ -2042,12 +2043,13 @@
       "msg_id": 2688,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 0.3,
-        "outcome": "без изменений",
-        "ts": 1791986943.006526
+        "change": 4.8,
+        "outcome": "плюс ✓",
+        "ts": 1792505691.842213
       }
     },
     "DzMwArmdzPqcqgvyqAmTxy79XdA9NwK9mMteqWLJpump": {
@@ -2465,6 +2467,22 @@
         "outcome": "без изменений",
         "ts": 1792469439.487559
       }
+    },
+    "ESnW5ZbLmoEAg2QEMxnMsY9R3aS8Kw58HJacYURmpump": {
+      "symbol": "COLLECTOOOR",
+      "price": 0.0003139,
+      "ts": 1792505684.2364326,
+      "msg_id": 4495,
+      "done": [],
+      "last": null
+    },
+    "EaxAUcXxNnVwcqm2BBocbows7D1XVY2Q63V38NEypump": {
+      "symbol": "GTA 6 Coin",
+      "price": 0.001103,
+      "ts": 1792505689.8340044,
+      "msg_id": 4496,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-19"
