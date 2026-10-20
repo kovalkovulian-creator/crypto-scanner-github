@@ -2401,12 +2401,13 @@
       "ts": 1792391745.0946198,
       "msg_id": 3999,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -98.0,
+        "change": -98.2,
         "outcome": "СКАМ ✖",
-        "ts": 1792395402.0803957
+        "ts": 1792478305.381114
       }
     },
     "2gVNeu8dP7XiLoaWfUvUJXUM5AdXY8418aft8xhUpump": {
