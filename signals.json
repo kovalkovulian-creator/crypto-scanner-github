@@ -2412,12 +2412,13 @@
       "ts": 1792429439.9576442,
       "msg_id": 4155,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 24.2,
+        "change": 1.2,
         "outcome": "плюс ✓",
-        "ts": 1792433173.1499083
+        "ts": 1792515890.4409783
       }
     },
     "BdXfLfcbDE8YvpbvvmmGTduqcDesaQVUm5xLxgUc2S5t": {
