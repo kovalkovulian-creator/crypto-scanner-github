@@ -2386,12 +2386,13 @@
       "ts": 1792389605.2304676,
       "msg_id": 3997,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 0.8,
-        "outcome": "без изменений",
-        "ts": 1792393275.8176224
+        "change": 18.0,
+        "outcome": "плюс ✓",
+        "ts": 1792476169.0191698
       }
     },
     "3rSfVix6BUoPS8n3fdG1pKdcziRNtxkjpgjJzoUZpump": {
