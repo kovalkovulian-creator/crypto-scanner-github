@@ -2541,6 +2541,14 @@
         "outcome": "минус",
         "ts": 1792549386.6602032
       }
+    },
+    "KoLoaG4ktXXA2g5FjrwNAHeNy5wPfQ2RzVUxscgZrpc": {
+      "symbol": "KOLO",
+      "price": 0.001117,
+      "ts": 1792588940.1523187,
+      "msg_id": 4833,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-20"
