@@ -2479,12 +2479,13 @@
       "ts": 1792505684.2364326,
       "msg_id": 4495,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -41.7,
+        "change": -88.2,
         "outcome": "минус",
-        "ts": 1792509384.8942997
+        "ts": 1792592318.400556
       }
     },
     "EaxAUcXxNnVwcqm2BBocbows7D1XVY2Q63V38NEypump": {
@@ -2493,12 +2494,13 @@
       "ts": 1792505689.8340044,
       "msg_id": 4496,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 2.8,
+        "change": 1.4,
         "outcome": "плюс ✓",
-        "ts": 1792509384.8942997
+        "ts": 1792592318.400556
       }
     },
     "A9E2AopuG56LWYiXsvGLLTcLjUjQ539PY6k5Fhfepump": {
