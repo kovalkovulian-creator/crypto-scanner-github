@@ -2457,12 +2457,13 @@
       "ts": 1792465740.477083,
       "msg_id": 4321,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -0.8,
+        "change": -0.6,
         "outcome": "без изменений",
-        "ts": 1792469439.487559
+        "ts": 1792552445.8580627
       }
     },
     "ESnW5ZbLmoEAg2QEMxnMsY9R3aS8Kw58HJacYURmpump": {
