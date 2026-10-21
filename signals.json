@@ -1853,12 +1853,13 @@
       "ts": 1792514644.8782687,
       "msg_id": 4505,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 3.9,
+        "change": 16.3,
         "outcome": "плюс ✓",
-        "ts": 1792518354.5710685
+        "ts": 1792601273.6541023
       }
     },
     "FQTs7tHw8vM9tUCU6PuRB3r6VK835cvMWZBJBHiBXKoq": {
