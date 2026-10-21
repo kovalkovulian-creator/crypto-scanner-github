@@ -2100,19 +2100,11 @@
     },
     "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump": {
       "symbol": "SI276",
-      "price": 0.0009679,
-      "ts": 1791946951.3188148,
-      "msg_id": 2712,
-      "done": [
-        1,
-        24,
-        168
-      ],
-      "last": {
-        "change": -34.8,
-        "outcome": "минус",
-        "ts": 1792551831.8145545
-      }
+      "price": 0.0006314,
+      "ts": 1792552136.4916086,
+      "msg_id": 4670,
+      "done": [],
+      "last": null
     },
     "Ek6mmnhJXUhv5jDZ57aBaw5dzjCYSJnbDTW1EMKBpump": {
       "symbol": "$GEAR",
