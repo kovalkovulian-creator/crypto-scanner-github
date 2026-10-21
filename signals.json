@@ -2519,16 +2519,28 @@
       "price": 0.0008933,
       "ts": 1792545690.1061196,
       "msg_id": 4664,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 0.5,
+        "outcome": "без изменений",
+        "ts": 1792549386.6602032
+      }
     },
     "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump": {
       "symbol": "GATO",
       "price": 0.001824,
       "ts": 1792545697.3545735,
       "msg_id": 4665,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -1.5,
+        "outcome": "минус",
+        "ts": 1792549386.6602032
+      }
     }
   },
   "last_summary": "2026-10-20"
