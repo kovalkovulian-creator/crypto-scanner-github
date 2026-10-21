@@ -2449,12 +2449,13 @@
       "ts": 1792442524.0621972,
       "msg_id": 4164,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 1.3,
-        "outcome": "плюс ✓",
-        "ts": 1792465763.2783191
+        "change": -1.8,
+        "outcome": "минус",
+        "ts": 1792545706.3409233
       }
     },
     "FPAZqRu2nsqRiEjQKtKPnyX23nD8axugnsMZ5AHypump": {
@@ -2512,6 +2513,22 @@
         "outcome": "плюс ✓",
         "ts": 1792509698.5886116
       }
+    },
+    "83iBDw3ZpxqJ3pEzrbttr9fGA57tttehDAxoFyR1moon": {
+      "symbol": "MEMDEX",
+      "price": 0.0008933,
+      "ts": 1792545690.1061196,
+      "msg_id": 4664,
+      "done": [],
+      "last": null
+    },
+    "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump": {
+      "symbol": "GATO",
+      "price": 0.001824,
+      "ts": 1792545697.3545735,
+      "msg_id": 4665,
+      "done": [],
+      "last": null
     }
   },
   "last_summary": "2026-10-20"
