@@ -2103,8 +2103,14 @@
       "price": 0.0006314,
       "ts": 1792552136.4916086,
       "msg_id": 4670,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -2.1,
+        "outcome": "минус",
+        "ts": 1792555812.4778237
+      }
     },
     "Ek6mmnhJXUhv5jDZ57aBaw5dzjCYSJnbDTW1EMKBpump": {
       "symbol": "$GEAR",
