@@ -2579,8 +2579,14 @@
       "price": 0.0002674,
       "ts": 1792591396.4199116,
       "msg_id": 4835,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -0.6,
+        "outcome": "без изменений",
+        "ts": 1792595102.2159364
+      }
     },
     "LUpgK4hZJbyDY1UyZPKZLbRKEqYTWVxxgHFNvoDpump": {
       "symbol": "DOT",
