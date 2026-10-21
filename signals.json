@@ -2509,12 +2509,13 @@
       "ts": 1792505998.765269,
       "msg_id": 4499,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": 2.6,
+        "change": 43.5,
         "outcome": "плюс ✓",
-        "ts": 1792509698.5886116
+        "ts": 1792592627.3132086
       }
     },
     "83iBDw3ZpxqJ3pEzrbttr9fGA57tttehDAxoFyR1moon": {
@@ -2550,8 +2551,14 @@
       "price": 0.001117,
       "ts": 1792588940.1523187,
       "msg_id": 4833,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": -2.0,
+        "outcome": "минус",
+        "ts": 1792592627.3132086
+      }
     },
     "t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP": {
       "symbol": "LARPCHECK",
