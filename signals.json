@@ -2587,12 +2587,13 @@
       "ts": 1792591396.4199116,
       "msg_id": 4835,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -0.6,
-        "outcome": "без изменений",
-        "ts": 1792595102.2159364
+        "change": 3.3,
+        "outcome": "плюс ✓",
+        "ts": 1792677828.9653504
       }
     },
     "LUpgK4hZJbyDY1UyZPKZLbRKEqYTWVxxgHFNvoDpump": {
