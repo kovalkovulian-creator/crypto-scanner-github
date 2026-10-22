@@ -2136,12 +2136,13 @@
       "msg_id": 3004,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 1293.5,
-        "outcome": "плюс ✓",
-        "ts": 1792113522.7965436
+        "change": -99.6,
+        "outcome": "СКАМ ✖",
+        "ts": 1792632010.658845
       }
     },
     "7fumw7GYTHZJJxkKJ8sSh1CqTdHmB234vX3xsKjepump": {
@@ -2151,12 +2152,13 @@
       "msg_id": 3005,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": 76.1,
-        "outcome": "плюс ✓",
-        "ts": 1792113522.7965436
+        "change": -99.7,
+        "outcome": "СКАМ ✖",
+        "ts": 1792632010.658845
       }
     },
     "4qH8A5GxvRMZgpRFjXASc6U9HAoEzKeUqxY2dPB7pump": {
