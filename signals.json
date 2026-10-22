@@ -2167,12 +2167,13 @@
       "msg_id": 3021,
       "done": [
         1,
-        24
+        24,
+        168
       ],
       "last": {
-        "change": -86.7,
+        "change": -88.0,
         "outcome": "минус",
-        "ts": 1792153478.5663495
+        "ts": 1792672025.9738245
       }
     },
     "F4GpAFr6vrxU3Y887F3XWkXRgybCVjZNk63m72f6pump": {
