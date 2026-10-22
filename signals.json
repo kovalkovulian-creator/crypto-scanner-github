@@ -445,19 +445,11 @@
     },
     "D1YZZg9dBZ7AbfknZVbaeVLto36eySwoFYEVhZrD4F4n": {
       "symbol": "GO",
-      "price": 0.008672,
-      "ts": 1790366994.038739,
-      "msg_id": 82,
-      "done": [
-        1,
-        24,
-        168
-      ],
-      "last": {
-        "change": -86.1,
-        "outcome": "минус",
-        "ts": 1790976323.9023995
-      }
+      "price": 0.0001436,
+      "ts": 1792665586.6867335,
+      "msg_id": 5180,
+      "done": [],
+      "last": null
     },
     "4ec7Lf7JuCYQVQnUJCzpW5YvaPMNEAeqDRwGcU5n9GGJ": {
       "symbol": "SATOSHI",
