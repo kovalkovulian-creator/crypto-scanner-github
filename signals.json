@@ -448,8 +448,14 @@
       "price": 0.0001436,
       "ts": 1792665586.6867335,
       "msg_id": 5180,
-      "done": [],
-      "last": null
+      "done": [
+        1
+      ],
+      "last": {
+        "change": 0.3,
+        "outcome": "без изменений",
+        "ts": 1792669281.7238364
+      }
     },
     "4ec7Lf7JuCYQVQnUJCzpW5YvaPMNEAeqDRwGcU5n9GGJ": {
       "symbol": "SATOSHI",
