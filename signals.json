@@ -2572,12 +2572,13 @@
       "ts": 1792590778.835636,
       "msg_id": 4834,
       "done": [
-        1
+        1,
+        24
       ],
       "last": {
-        "change": -1.4,
+        "change": -15.4,
         "outcome": "минус",
-        "ts": 1792594483.2602181
+        "ts": 1792677210.571962
       }
     },
     "3LTox4ciobeuUivZRueYbyuXjeTga4CA1w8JjqhQpump": {
